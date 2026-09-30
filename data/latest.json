@@ -1,0 +1,1763 @@
+{
+ "updatedAt": "2026-09-30T12:01:50Z",
+ "listOption": "LIST_OPTION_DEFAULT",
+ "pageSize": 20,
+ "totalResults": 755,
+ "competitions": [
+  {
+   "id": 168019,
+   "competitionName": "the-pokemon-company-ptcg-ai-battle-challenge-playground",
+   "title": "The Pokémon Company - PTCG AI Battle Challenge Playground",
+   "briefDescription": "Build an AI Training Agent to play the Pokémon Trading Card Game",
+   "dateEnabled": "2026-09-29T00:31:00.783Z",
+   "deadline": "2027-01-08T23:59:59Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 30,
+   "maxDailySubmissions": 5,
+   "numScoredSubmissions": 2,
+   "numPrizes": 5,
+   "forumId": 13389607,
+   "dateCreated": "2026-09-24T16:23:27.971665300Z",
+   "competitionHostSegmentId": 8,
+   "maxTeamSize": 5,
+   "teamMergerExplicitDeadline": "2027-01-01T23:59:59Z",
+   "prohibitNewEntrantsExplicitDeadline": "2027-01-01T23:59:59Z",
+   "kernelsPublishingDisabledDeadline": "2026-12-25T23:59:59Z",
+   "organizationId": 5151,
+   "hasCoverImageUrl": true,
+   "hasScripts": true,
+   "totalTeams": 39,
+   "totalCompetitors": 42,
+   "totalSubmissions": 68,
+   "rulesRequired": true,
+   "clonedFromCompetitionId": 116727,
+   "evaluationAlgorithm": {
+    "id": 7789,
+    "name": "cabt_bo3",
+    "isMax": true,
+    "isEnvironment": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_HTML",
+    "state": "ENVIRONMENT"
+   },
+   "categories": [
+    {
+     "id": 2500,
+     "name": "games",
+     "displayName": "Games",
+     "slug": "games-and-toys",
+     "fullPath": "subject > culture and humanities > games"
+    },
+    {
+     "id": 12101,
+     "name": "artificial intelligence",
+     "displayName": "Artificial Intelligence",
+     "slug": "artificial-intelligence",
+     "fullPath": "subject > science and technology > computer science > artificial intelligence"
+    },
+    {
+     "id": 13313,
+     "name": "reinforcement learning",
+     "displayName": "Reinforcement Learning",
+     "slug": "reinforcement-learning",
+     "fullPath": "task > reinforcement-learning"
+    },
+    {
+     "name": "custom metric",
+     "displayName": "Custom Metric",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "the-pokemon-company",
+    "name": "The Pokémon Company - PTCGABC Team",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/5151/thumbnail.png?t=2025-05-29-13-32-45",
+    "profileUrl": "/organizations/the-pokemon-company"
+   },
+   "launched": true,
+   "createdByUserId": 1095143,
+   "license": {
+    "id": 42,
+    "name": "Subject to Competition Rules"
+   },
+   "hostName": "The Pokémon Company - PTCGABC Team",
+   "scoreTruncationNumDecimals": 1,
+   "totalJoinedUsers": 177,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "SWAG"
+   },
+   "simulation": true,
+   "fileBasedSubmissions": true,
+   "url": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground"
+  },
+  {
+   "id": 163111,
+   "competitionName": "gemma-4-developer-agent-paper",
+   "title": "Google - The Gemma 4 Developer Agent Paper Track",
+   "briefDescription": "Submit a Research Paper advancing the state-of-the-art for agentic software engineering",
+   "dateEnabled": "2026-09-23T15:15:22.937Z",
+   "deadline": "2026-11-12T23:59:00.807Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 30,
+   "maxDailySubmissions": 5,
+   "numScoredSubmissions": 2,
+   "numPrizes": 1,
+   "forumId": 12784402,
+   "dateCreated": "2026-08-27T23:32:17.762832900Z",
+   "competitionHostSegmentId": 1,
+   "maxTeamSize": 5,
+   "teamMergerExplicitDeadline": "2026-11-12T23:59:00Z",
+   "prohibitNewEntrantsExplicitDeadline": "2026-11-12T23:59:00Z",
+   "kernelsPublishingDisabledDeadline": "2026-11-12T23:59:00Z",
+   "organizationId": 3823,
+   "hasCoverImageUrl": true,
+   "hasScripts": true,
+   "totalTeams": 80,
+   "totalCompetitors": 80,
+   "totalSubmissions": 81,
+   "rulesRequired": true,
+   "categories": [
+    {
+     "id": 12101,
+     "name": "artificial intelligence",
+     "displayName": "Artificial Intelligence",
+     "slug": "artificial-intelligence",
+     "fullPath": "subject > science and technology > computer science > artificial intelligence"
+    },
+    {
+     "id": 17194,
+     "name": "coding",
+     "displayName": "Coding",
+     "slug": "coding",
+     "fullPath": "task > evaluation > coding"
+    }
+   ],
+   "organization": {
+    "slug": "deepmind",
+    "name": "Google DeepMind",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/3823/thumbnail.png",
+    "profileUrl": "/organizations/deepmind"
+   },
+   "launched": true,
+   "createdByUserId": 8939556,
+   "license": {
+    "id": 30,
+    "name": "Apache 2.0",
+    "url": "https://www.apache.org/licenses/LICENSE-2.0"
+   },
+   "hostName": "Google DeepMind",
+   "scoreTruncationNumDecimals": 5,
+   "totalJoinedUsers": 2436,
+   "requiresIdentityVerification": true,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "USD",
+    "quantity": 35000
+   },
+   "hackathon": true,
+   "fileBasedSubmissions": true,
+   "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent-paper"
+  },
+  {
+   "id": 149921,
+   "competitionName": "gemma-4-developer-agent",
+   "title": "Google - The Gemma 4 Developer Agent Competition",
+   "briefDescription": "Accelerate research in autonomous coding agents",
+   "dateEnabled": "2026-09-23T14:05:47.363Z",
+   "deadline": "2026-12-02T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 50,
+   "maxDailySubmissions": 1,
+   "numScoredSubmissions": 2,
+   "hasSolution": true,
+   "numPrizes": 3,
+   "forumId": 11630393,
+   "userRankMultiplier": 1,
+   "publicLeaderboardDisclaimerMessage": "",
+   "finalLeaderboardDisclaimerMessage": "",
+   "dateCreated": "2026-06-16T18:24:03.200176800Z",
+   "competitionHostSegmentId": 1,
+   "maxTeamSize": 5,
+   "medalsAllowed": true,
+   "teamMergerExplicitDeadline": "2026-11-25T23:59:00Z",
+   "prohibitNewEntrantsExplicitDeadline": "2026-11-25T23:59:00Z",
+   "kernelsPublishingDisabledDeadline": "2026-11-25T23:59:00Z",
+   "organizationId": 3823,
+   "hasCoverImageUrl": true,
+   "hasScripts": true,
+   "totalTeams": 1063,
+   "totalCompetitors": 1129,
+   "totalSubmissions": 2949,
+   "rulesRequired": true,
+   "usesSynchronousReruns": true,
+   "maxCpuRuntimeMinutes": 720,
+   "maxGpuRuntimeMinutes": 720,
+   "rowIdColumnName": "id",
+   "requiredSubmissionFilename": "submission.zip",
+   "evaluationAlgorithm": {
+    "id": 7656,
+    "name": "Gemma 4 Developer Agent (149921)",
+    "isMax": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_JSON",
+    "kernelId": 134593259,
+    "latestCompetitionMetricVersionId": 74903,
+    "state": "AVAILABLE"
+   },
+   "categories": [
+    {
+     "id": 12101,
+     "name": "artificial intelligence",
+     "displayName": "Artificial Intelligence",
+     "slug": "artificial-intelligence",
+     "fullPath": "subject > science and technology > computer science > artificial intelligence"
+    },
+    {
+     "id": 17194,
+     "name": "coding",
+     "displayName": "Coding",
+     "slug": "coding",
+     "fullPath": "task > evaluation > coding"
+    },
+    {
+     "name": "custom metric",
+     "displayName": "Custom Metric",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "deepmind",
+    "name": "Google DeepMind",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/3823/thumbnail.png",
+    "profileUrl": "/organizations/deepmind"
+   },
+   "launched": true,
+   "createdByUserId": 8939556,
+   "license": {
+    "id": 30,
+    "name": "Apache 2.0",
+    "url": "https://www.apache.org/licenses/LICENSE-2.0"
+   },
+   "hostName": "Google DeepMind",
+   "scoreTruncationNumDecimals": 2,
+   "totalJoinedUsers": 6570,
+   "requiresIdentityVerification": true,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "USD",
+    "quantity": 65000,
+    "clarification": "1st Place - $37,000 2nd Place - $18,000 3rd Place - $10,000"
+   },
+   "rerunOverrideKernelId": 134611724,
+   "fileBasedSubmissions": true,
+   "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent"
+  },
+  {
+   "id": 143318,
+   "competitionName": "enveda-CASMI26-molecule-id-mass-spectra",
+   "title": "Enveda CASMI 2026 - Molecule ID From Mass Spectra",
+   "briefDescription": "Predict 2D chemical structures of small molecules detected in complex biological extracts",
+   "dateEnabled": "2026-09-14T22:57:37.417Z",
+   "deadline": "2026-12-14T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 33,
+   "maxDailySubmissions": 5,
+   "numScoredSubmissions": 2,
+   "hasSolution": true,
+   "numPrizes": 5,
+   "forumId": 11293906,
+   "userRankMultiplier": 1,
+   "dateCreated": "2026-05-18T20:41:21.563820600Z",
+   "competitionHostSegmentId": 1,
+   "maxTeamSize": 5,
+   "medalsAllowed": true,
+   "teamMergerExplicitDeadline": "2026-12-07T23:59:00Z",
+   "prohibitNewEntrantsExplicitDeadline": "2026-12-07T23:59:00Z",
+   "kernelsPublishingDisabledDeadline": "2026-12-07T23:59:00Z",
+   "organizationId": 5326,
+   "hasCoverImageUrl": true,
+   "hasScripts": true,
+   "onlyAllowKernelSubmissions": true,
+   "totalTeams": 1883,
+   "totalCompetitors": 2000,
+   "totalSubmissions": 19151,
+   "rulesRequired": true,
+   "usesSynchronousReruns": true,
+   "maxCpuRuntimeMinutes": 540,
+   "maxGpuRuntimeMinutes": 540,
+   "rowIdColumnName": "molecule_id",
+   "requiredSubmissionFilename": "submission.csv",
+   "evaluationAlgorithm": {
+    "id": 7599,
+    "name": "CASMI: Mean Average Precision",
+    "isMax": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_JSON",
+    "kernelId": 133620699,
+    "latestCompetitionMetricVersionId": 74442,
+    "state": "AVAILABLE"
+   },
+   "categories": [
+    {
+     "id": 7100,
+     "name": "biology",
+     "displayName": "Biology",
+     "slug": "biology",
+     "fullPath": "subject > earth and nature > biology"
+    },
+    {
+     "id": 7402,
+     "name": "chemistry",
+     "displayName": "Chemistry",
+     "slug": "chemistry",
+     "fullPath": "subject > earth and nature > physical science > chemistry"
+    },
+    {
+     "name": "custom metric",
+     "displayName": "Custom Metric",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "enveda",
+    "name": "Enveda",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/5326/thumbnail.png?t=2026-09-01-22-57-31",
+    "profileUrl": "/organizations/enveda"
+   },
+   "launched": true,
+   "createdByUserId": 8939556,
+   "license": {
+    "id": 14,
+    "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+   },
+   "hostName": "Enveda",
+   "scoreTruncationNumDecimals": 3,
+   "rerunMaxStaggerMinutes": 5,
+   "totalJoinedUsers": 7631,
+   "requiresIdentityVerification": true,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "USD",
+    "quantity": 50000
+   },
+   "url": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra"
+  },
+  {
+   "id": 125219,
+   "competitionName": "playground-series-s6e9",
+   "title": "Predicting Electric Vehicle Purchases",
+   "briefDescription": "Playground Series - Season 6 Episode 9",
+   "dateEnabled": "2026-09-01T00:00:00Z",
+   "deadline": "2026-09-30T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 20,
+   "maxDailySubmissions": 10,
+   "numScoredSubmissions": 2,
+   "hasSolution": true,
+   "numPrizes": 3,
+   "forumId": 9538219,
+   "dateCreated": "2025-12-03T22:08:31.815334600Z",
+   "competitionHostSegmentId": 8,
+   "maxTeamSize": 3,
+   "totalSolutionRows": 286571,
+   "organizationId": 4,
+   "hasCoverImageUrl": true,
+   "hasScripts": true,
+   "totalTeams": 3502,
+   "totalCompetitors": 3638,
+   "totalSubmissions": 37364,
+   "rulesRequired": true,
+   "clonedFromCompetitionId": 119082,
+   "rowIdColumnName": "id",
+   "evaluationAlgorithm": {
+    "id": 499,
+    "name": "Roc Auc Score",
+    "isMax": true,
+    "isPublic": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_JSON",
+    "kernelId": 39244492,
+    "latestCompetitionMetricVersionId": 9197,
+    "state": "AVAILABLE"
+   },
+   "categories": [
+    {
+     "id": 13102,
+     "name": "beginner",
+     "displayName": "Beginner",
+     "slug": "beginner",
+     "fullPath": "audience > beginner"
+    },
+    {
+     "id": 14101,
+     "name": "tabular",
+     "displayName": "Tabular",
+     "slug": "tabular-data",
+     "fullPath": "data type > tabular"
+    },
+    {
+     "name": "roc auc score",
+     "displayName": "Roc Auc Score",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "kaggle",
+    "name": "Kaggle",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
+    "profileUrl": "/organizations/kaggle"
+   },
+   "launched": true,
+   "createdByUserId": 11812594,
+   "license": {
+    "id": 13,
+    "name": "Attribution 4.0 International (CC BY 4.0)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "hostName": "Kaggle",
+   "scoreTruncationNumDecimals": 5,
+   "totalJoinedUsers": 7295,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "SWAG"
+   },
+   "fileBasedSubmissions": true,
+   "url": "https://www.kaggle.com/competitions/playground-series-s6e9"
+  },
+  {
+   "id": 154281,
+   "competitionName": "rsna-knee-abnormality-detection",
+   "title": "RSNA Knee Abnormality Detection",
+   "briefDescription": "Create a model that can detect knee abnormalities based on multimodal imaging data",
+   "dateEnabled": "2026-08-05T15:51:31.833Z",
+   "deadline": "2026-10-22T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 30,
+   "maxDailySubmissions": 5,
+   "numScoredSubmissions": 2,
+   "hasSolution": true,
+   "numPrizes": 10,
+   "forumId": 12044884,
+   "userRankMultiplier": 1,
+   "publicLeaderboardDisclaimerMessage": "",
+   "finalLeaderboardDisclaimerMessage": "",
+   "dateCreated": "2026-07-13T23:48:20.713787800Z",
+   "competitionHostSegmentId": 2,
+   "maxTeamSize": 5,
+   "medalsAllowed": true,
+   "teamMergerExplicitDeadline": "2026-10-15T23:59:00Z",
+   "prohibitNewEntrantsExplicitDeadline": "2026-10-15T23:59:00Z",
+   "kernelsPublishingDisabledDeadline": "2026-10-15T23:59:00Z",
+   "organizationId": 1817,
+   "hasCoverImageUrl": true,
+   "hasScripts": true,
+   "onlyAllowKernelSubmissions": true,
+   "totalTeams": 4641,
+   "totalCompetitors": 5246,
+   "totalSubmissions": 71316,
+   "rulesRequired": true,
+   "usesSynchronousReruns": true,
+   "maxCpuRuntimeMinutes": 540,
+   "maxGpuRuntimeMinutes": 540,
+   "rowIdColumnName": "StudyInstanceUID",
+   "requiredSubmissionFilename": "submission.csv",
+   "evaluationAlgorithm": {
+    "id": 499,
+    "name": "Roc Auc Score",
+    "isMax": true,
+    "isPublic": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_JSON",
+    "kernelId": 39244492,
+    "latestCompetitionMetricVersionId": 9197,
+    "state": "AVAILABLE"
+   },
+   "categories": [
+    {
+     "id": 12028,
+     "name": "medicine",
+     "displayName": "Medicine",
+     "slug": "medicine",
+     "fullPath": "subject > health and fitness > health > medicine"
+    },
+    {
+     "id": 13207,
+     "name": "computer vision",
+     "displayName": "Computer Vision",
+     "slug": "image-processing",
+     "fullPath": "technique > computer vision"
+    },
+    {
+     "id": 14102,
+     "name": "image",
+     "displayName": "Image",
+     "slug": "image-data",
+     "fullPath": "data type > image"
+    },
+    {
+     "id": 14104,
+     "name": "text",
+     "displayName": "Text",
+     "slug": "text-data",
+     "fullPath": "data type > text"
+    },
+    {
+     "id": 16686,
+     "name": "image classification",
+     "displayName": "Image Classification",
+     "slug": "image-classification",
+     "fullPath": "task > image-classification"
+    },
+    {
+     "name": "roc auc score",
+     "displayName": "Roc Auc Score",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "RSNA",
+    "name": "Radiological Society of North America",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/1817/thumbnail.png",
+    "profileUrl": "/organizations/RSNA"
+   },
+   "launched": true,
+   "createdByUserId": 19579895,
+   "license": {
+    "id": 42,
+    "name": "Subject to Competition Rules"
+   },
+   "hostName": "Radiological Society of North America",
+   "scoreTruncationNumDecimals": 3,
+   "totalJoinedUsers": 23022,
+   "requiresIdentityVerification": true,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "USD",
+    "quantity": 77000,
+    "clarification": "There will be 10 leaderboard prizes, and 3 efficiency prizes."
+   },
+   "url": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection"
+  },
+  {
+   "id": 125218,
+   "competitionName": "playground-series-s6e8",
+   "title": "Predicting Smartphone Addiction",
+   "briefDescription": "Playground Series - Season 6 Episode 8",
+   "dateEnabled": "2026-08-01T00:00:00Z",
+   "deadline": "2026-08-31T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 20,
+   "maxDailySubmissions": 10,
+   "numScoredSubmissions": 2,
+   "hasSolution": true,
+   "numPrizes": 3,
+   "forumId": 9538188,
+   "finalLeaderboardHasBeenVerified": true,
+   "dateCreated": "2025-12-03T22:02:22.466349400Z",
+   "competitionHostSegmentId": 8,
+   "maxTeamSize": 3,
+   "totalSolutionRows": 296302,
+   "organizationId": 4,
+   "hasCoverImageUrl": true,
+   "showPrivateLeaderboard": true,
+   "hasScripts": true,
+   "totalTeams": 3531,
+   "totalCompetitors": 3651,
+   "totalSubmissions": 33982,
+   "rulesRequired": true,
+   "clonedFromCompetitionId": 119082,
+   "rowIdColumnName": "id",
+   "evaluationAlgorithm": {
+    "id": 499,
+    "name": "Roc Auc Score",
+    "isMax": true,
+    "isPublic": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_JSON",
+    "kernelId": 39244492,
+    "latestCompetitionMetricVersionId": 9197,
+    "state": "AVAILABLE"
+   },
+   "categories": [
+    {
+     "id": 13102,
+     "name": "beginner",
+     "displayName": "Beginner",
+     "slug": "beginner",
+     "fullPath": "audience > beginner"
+    },
+    {
+     "id": 14101,
+     "name": "tabular",
+     "displayName": "Tabular",
+     "slug": "tabular-data",
+     "fullPath": "data type > tabular"
+    },
+    {
+     "name": "roc auc score",
+     "displayName": "Roc Auc Score",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "kaggle",
+    "name": "Kaggle",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
+    "profileUrl": "/organizations/kaggle"
+   },
+   "launched": true,
+   "publiclyCloneable": "PUBLICLY_CLONEABLE_WITH_PRIVATE_SOLUTION_FILE",
+   "createdByUserId": 11812594,
+   "license": {
+    "id": 13,
+    "name": "Attribution 4.0 International (CC BY 4.0)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "hostName": "Kaggle",
+   "scoreTruncationNumDecimals": 5,
+   "locked": true,
+   "totalJoinedUsers": 7492,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "SWAG"
+   },
+   "fileBasedSubmissions": true,
+   "url": "https://www.kaggle.com/competitions/playground-series-s6e8"
+  },
+  {
+   "id": 147734,
+   "competitionName": "kaggriculture",
+   "title": "Kaggriculture",
+   "briefDescription": "Create an agent to play in this farming simulation and compete with others to maximize your income",
+   "dateEnabled": "2026-07-30T16:15:52.123Z",
+   "deadline": "2026-09-30T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 30,
+   "maxDailySubmissions": 5,
+   "numScoredSubmissions": 2,
+   "numPrizes": 10,
+   "forumId": 11548702,
+   "userRankMultiplier": 1,
+   "dateCreated": "2026-06-09T23:19:05.594587900Z",
+   "competitionHostSegmentId": 1,
+   "maxTeamSize": 5,
+   "medalsAllowed": true,
+   "teamMergerExplicitDeadline": "2026-09-23T23:59:00Z",
+   "prohibitNewEntrantsExplicitDeadline": "2026-09-23T23:59:00Z",
+   "kernelsPublishingDisabledDeadline": "2026-09-23T23:59:00Z",
+   "organizationId": 4,
+   "hasCoverImageUrl": true,
+   "hasScripts": true,
+   "totalTeams": 10203,
+   "totalCompetitors": 11409,
+   "totalSubmissions": 19495,
+   "rulesRequired": true,
+   "clonedFromCompetitionId": 142031,
+   "evaluationAlgorithm": {
+    "id": 6705,
+    "name": "kaggriculture",
+    "isMax": true,
+    "isEnvironment": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_JSON",
+    "state": "ENVIRONMENT"
+   },
+   "categories": [
+    {
+     "id": 16151,
+     "name": "simulations",
+     "displayName": "Simulations",
+     "slug": "simulation-games",
+     "fullPath": "subject > culture and humanities > games > video games > simulations"
+    },
+    {
+     "name": "custom metric",
+     "displayName": "Custom Metric",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "kaggle",
+    "name": "Kaggle",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
+    "profileUrl": "/organizations/kaggle"
+   },
+   "launched": true,
+   "kernelsPublishingDisabledNow": true,
+   "createdByUserId": 19579895,
+   "license": {
+    "id": 30,
+    "name": "Apache 2.0",
+    "url": "https://www.apache.org/licenses/LICENSE-2.0"
+   },
+   "hostName": "Kaggle",
+   "scoreTruncationNumDecimals": 1,
+   "totalJoinedUsers": 21331,
+   "requiresIdentityVerification": true,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "USD",
+    "quantity": 50000
+   },
+   "simulation": true,
+   "fileBasedSubmissions": true,
+   "url": "https://www.kaggle.com/competitions/kaggriculture"
+  },
+  {
+   "id": 151211,
+   "competitionName": "autonomous-agent-prediction-beta",
+   "title": "Autonomous Agent Prediction (Beta)",
+   "briefDescription": "Submit an agent able to autonomously train a model and submit to a competition",
+   "dateEnabled": "2026-07-07T17:53:04.397Z",
+   "deadline": "2026-08-06T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 50,
+   "maxDailySubmissions": 1,
+   "numScoredSubmissions": 2,
+   "hasSolution": true,
+   "numPrizes": 3,
+   "forumId": 11741326,
+   "finalLeaderboardHasBeenVerified": true,
+   "publicLeaderboardDisclaimerMessage": "",
+   "finalLeaderboardDisclaimerMessage": "",
+   "dateCreated": "2026-06-24T18:03:10.185870700Z",
+   "competitionHostSegmentId": 8,
+   "maxTeamSize": 5,
+   "teamMergerExplicitDeadline": "2026-08-06T23:59:00Z",
+   "prohibitNewEntrantsExplicitDeadline": "2026-08-06T23:59:00Z",
+   "kernelsPublishingDisabledDeadline": "2026-07-31T23:59:00Z",
+   "organizationId": 4,
+   "hasCoverImageUrl": true,
+   "showPrivateLeaderboard": true,
+   "hasScripts": true,
+   "totalTeams": 570,
+   "totalCompetitors": 593,
+   "totalSubmissions": 2369,
+   "rulesRequired": true,
+   "clonedFromCompetitionId": 144859,
+   "rowIdColumnName": "id",
+   "requiredSubmissionFilename": "submission.zip",
+   "evaluationAlgorithm": {
+    "id": 7202,
+    "name": "Autonomous Agent Prediction Beta Metric",
+    "isMax": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_JSON",
+    "kernelId": 126146754,
+    "latestCompetitionMetricVersionId": 70522,
+    "state": "AVAILABLE",
+    "passCompleteSubmission": true,
+    "allowInternet": true
+   },
+   "categories": [
+    {
+     "id": 16635,
+     "name": "automl",
+     "displayName": "AutoML",
+     "slug": "automl",
+     "fullPath": "technique > automl"
+    },
+    {
+     "name": "custom metric",
+     "displayName": "Custom Metric",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "kaggle",
+    "name": "Kaggle",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
+    "profileUrl": "/organizations/kaggle"
+   },
+   "launched": true,
+   "createdByUserId": 1095143,
+   "license": {
+    "id": 13,
+    "name": "Attribution 4.0 International (CC BY 4.0)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "hostName": "Kaggle",
+   "scoreTruncationNumDecimals": 3,
+   "locked": true,
+   "totalJoinedUsers": 1803,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "SWAG",
+    "clarification": "All members of the top 3 teams will be given their choice of Kaggle merchandise"
+   },
+   "fileBasedSubmissions": true,
+   "url": "https://www.kaggle.com/competitions/autonomous-agent-prediction-beta"
+  },
+  {
+   "id": 125223,
+   "competitionName": "playground-series-s6e7",
+   "title": "Predicting Student Health Risk",
+   "briefDescription": "Playground Series - Season 6 Episode 7",
+   "dateEnabled": "2026-07-01T00:00:00Z",
+   "deadline": "2026-07-31T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 20,
+   "maxDailySubmissions": 10,
+   "numScoredSubmissions": 2,
+   "hasSolution": true,
+   "numPrizes": 3,
+   "forumId": 9538288,
+   "finalLeaderboardHasBeenVerified": true,
+   "dateCreated": "2025-12-03T22:21:06.864600700Z",
+   "competitionHostSegmentId": 8,
+   "maxTeamSize": 3,
+   "totalSolutionRows": 295753,
+   "organizationId": 4,
+   "hasCoverImageUrl": true,
+   "showPrivateLeaderboard": true,
+   "hasScripts": true,
+   "totalTeams": 3355,
+   "totalCompetitors": 3452,
+   "totalSubmissions": 34190,
+   "rulesRequired": true,
+   "clonedFromCompetitionId": 119082,
+   "rowIdColumnName": "id",
+   "evaluationAlgorithm": {
+    "id": 501,
+    "name": "Balanced Accuracy Score",
+    "isMax": true,
+    "isPublic": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_JSON",
+    "kernelId": 39244032,
+    "latestCompetitionMetricVersionId": 9198,
+    "state": "AVAILABLE"
+   },
+   "categories": [
+    {
+     "id": 13102,
+     "name": "beginner",
+     "displayName": "Beginner",
+     "slug": "beginner",
+     "fullPath": "audience > beginner"
+    },
+    {
+     "id": 14101,
+     "name": "tabular",
+     "displayName": "Tabular",
+     "slug": "tabular-data",
+     "fullPath": "data type > tabular"
+    },
+    {
+     "name": "balanced accuracy score",
+     "displayName": "Balanced Accuracy Score",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "kaggle",
+    "name": "Kaggle",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
+    "profileUrl": "/organizations/kaggle"
+   },
+   "launched": true,
+   "publiclyCloneable": "PUBLICLY_CLONEABLE_WITH_PRIVATE_SOLUTION_FILE",
+   "createdByUserId": 11812592,
+   "license": {
+    "id": 13,
+    "name": "Attribution 4.0 International (CC BY 4.0)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "hostName": "Kaggle",
+   "scoreTruncationNumDecimals": 5,
+   "locked": true,
+   "totalJoinedUsers": 6691,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "SWAG"
+   },
+   "fileBasedSubmissions": true,
+   "url": "https://www.kaggle.com/competitions/playground-series-s6e7"
+  },
+  {
+   "id": 136605,
+   "competitionName": "biohub-cell-tracking-during-development",
+   "title": "Biohub - Cell Tracking During Development",
+   "briefDescription": "Detect and track zebrafish cells through 3D space and time",
+   "dateEnabled": "2026-06-29T19:01:13.613Z",
+   "deadline": "2026-09-29T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 29,
+   "maxDailySubmissions": 5,
+   "numScoredSubmissions": 2,
+   "hasSolution": true,
+   "numPrizes": 7,
+   "forumId": 10656304,
+   "userRankMultiplier": 1,
+   "dateCreated": "2026-04-01T21:58:55.077484900Z",
+   "competitionHostSegmentId": 2,
+   "maxTeamSize": 5,
+   "medalsAllowed": true,
+   "teamMergerExplicitDeadline": "2026-09-22T23:59:00Z",
+   "prohibitNewEntrantsExplicitDeadline": "2026-09-22T23:59:00Z",
+   "kernelsPublishingDisabledDeadline": "2026-09-22T23:59:00Z",
+   "organizationId": 5324,
+   "hasCoverImageUrl": true,
+   "showPrivateLeaderboard": true,
+   "hasScripts": true,
+   "onlyAllowKernelSubmissions": true,
+   "totalTeams": 4017,
+   "totalCompetitors": 4602,
+   "totalSubmissions": 97523,
+   "rulesRequired": true,
+   "usesSynchronousReruns": true,
+   "maxCpuRuntimeMinutes": 720,
+   "maxGpuRuntimeMinutes": 720,
+   "rowIdColumnName": "id",
+   "requiredSubmissionFilename": "submission.csv",
+   "evaluationAlgorithm": {
+    "id": 7107,
+    "name": "CZI Biohub Zebrafish 133605",
+    "isMax": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_JSON",
+    "kernelId": 124523554,
+    "latestCompetitionMetricVersionId": 72149,
+    "state": "AVAILABLE",
+    "passCompleteSubmission": true
+   },
+   "categories": [
+    {
+     "id": 7100,
+     "name": "biology",
+     "displayName": "Biology",
+     "slug": "biology",
+     "fullPath": "subject > earth and nature > biology"
+    },
+    {
+     "id": 13207,
+     "name": "computer vision",
+     "displayName": "Computer Vision",
+     "slug": "image-processing",
+     "fullPath": "technique > computer vision"
+    },
+    {
+     "id": 14102,
+     "name": "image",
+     "displayName": "Image",
+     "slug": "image-data",
+     "fullPath": "data type > image"
+    },
+    {
+     "id": 14105,
+     "name": "video",
+     "displayName": "Video",
+     "slug": "video-data",
+     "fullPath": "data type > video data"
+    },
+    {
+     "id": 17074,
+     "name": "object detection",
+     "displayName": "Object Detection",
+     "slug": "object-detection",
+     "fullPath": "task > object-detection"
+    },
+    {
+     "name": "custom metric",
+     "displayName": "Custom Metric",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "biohub",
+    "name": "Biohub",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/5324/thumbnail.png?t=2026-04-22-22-05-28",
+    "profileUrl": "/organizations/biohub"
+   },
+   "launched": true,
+   "createdByUserId": 19579895,
+   "license": {
+    "id": 1,
+    "name": "CC0: Public Domain",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+   },
+   "hostName": "Biohub",
+   "scoreTruncationNumDecimals": 3,
+   "rerunMaxStaggerMinutes": 5,
+   "totalJoinedUsers": 13475,
+   "requiresIdentityVerification": true,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "USD",
+    "quantity": 60000
+   },
+   "url": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development"
+  },
+  {
+   "id": 131772,
+   "competitionName": "pokemon-tcg-ai-battle-challenge-strategy",
+   "title": "The Pokémon Company - PTCG AI Battle Challenge Strategy",
+   "briefDescription": "Analyze data and agentic play supporting the Pokémon Trading Card Game",
+   "dateEnabled": "2026-06-16T11:00:00Z",
+   "deadline": "2026-09-13T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 30,
+   "maxDailySubmissions": 5,
+   "numScoredSubmissions": 2,
+   "numPrizes": 1,
+   "forumId": 10272044,
+   "finalLeaderboardHasBeenVerified": true,
+   "dateCreated": "2026-02-24T15:41:46.073948200Z",
+   "competitionHostSegmentId": 1,
+   "maxTeamSize": 5,
+   "teamMergerExplicitDeadline": "2026-09-06T23:59:00Z",
+   "prohibitNewEntrantsExplicitDeadline": "2026-09-06T23:59:00Z",
+   "organizationId": 5151,
+   "hasCoverImageUrl": true,
+   "showPrivateLeaderboard": true,
+   "hasScripts": true,
+   "totalTeams": 940,
+   "totalCompetitors": 1096,
+   "totalSubmissions": 942,
+   "rulesRequired": true,
+   "categories": [
+    {
+     "id": 2500,
+     "name": "games",
+     "displayName": "Games",
+     "slug": "games-and-toys",
+     "fullPath": "subject > culture and humanities > games"
+    },
+    {
+     "id": 12101,
+     "name": "artificial intelligence",
+     "displayName": "Artificial Intelligence",
+     "slug": "artificial-intelligence",
+     "fullPath": "subject > science and technology > computer science > artificial intelligence"
+    },
+    {
+     "id": 13313,
+     "name": "reinforcement learning",
+     "displayName": "Reinforcement Learning",
+     "slug": "reinforcement-learning",
+     "fullPath": "task > reinforcement-learning"
+    }
+   ],
+   "organization": {
+    "slug": "the-pokemon-company",
+    "name": "The Pokémon Company - PTCGABC Team",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/5151/thumbnail.png?t=2025-05-29-13-32-45",
+    "profileUrl": "/organizations/the-pokemon-company"
+   },
+   "launched": true,
+   "createdByUserId": 1095143,
+   "license": {
+    "id": 42,
+    "name": "Subject to Competition Rules"
+   },
+   "hostName": "The Pokémon Company - PTCGABC Team",
+   "scoreTruncationNumDecimals": 5,
+   "locked": true,
+   "totalJoinedUsers": 14277,
+   "requiresIdentityVerification": true,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "USD",
+    "quantity": 240000
+   },
+   "hackathon": true,
+   "fileBasedSubmissions": true,
+   "url": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle-challenge-strategy"
+  },
+  {
+   "id": 116727,
+   "competitionName": "pokemon-tcg-ai-battle",
+   "title": "The Pokémon Company - PTCG AI Battle Challenge Simulation",
+   "briefDescription": "Build an AI Training Agent to play the Pokémon Trading Card Game",
+   "dateEnabled": "2026-06-16T11:00:00Z",
+   "deadline": "2026-08-31T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 30,
+   "maxDailySubmissions": 5,
+   "numScoredSubmissions": 2,
+   "forumId": 8948467,
+   "finalLeaderboardHasBeenVerified": true,
+   "disableSubmissions": true,
+   "userRankMultiplier": 1,
+   "dateCreated": "2025-10-02T02:03:16.877598200Z",
+   "competitionHostSegmentId": 1,
+   "maxTeamSize": 5,
+   "medalsAllowed": true,
+   "teamMergerExplicitDeadline": "2026-08-10T23:59:00Z",
+   "prohibitNewEntrantsExplicitDeadline": "2026-08-09T23:59:00Z",
+   "kernelsPublishingDisabledDeadline": "2026-08-02T23:59:00Z",
+   "organizationId": 5151,
+   "hasCoverImageUrl": true,
+   "showPrivateLeaderboard": true,
+   "hasScripts": true,
+   "totalTeams": 6807,
+   "totalCompetitors": 8085,
+   "totalSubmissions": 12967,
+   "rulesRequired": true,
+   "clonedFromCompetitionId": 105023,
+   "evaluationAlgorithm": {
+    "id": 4595,
+    "name": "cabt_bo1",
+    "isMax": true,
+    "isEnvironment": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_HTML",
+    "state": "ENVIRONMENT"
+   },
+   "categories": [
+    {
+     "id": 2500,
+     "name": "games",
+     "displayName": "Games",
+     "slug": "games-and-toys",
+     "fullPath": "subject > culture and humanities > games"
+    },
+    {
+     "id": 12101,
+     "name": "artificial intelligence",
+     "displayName": "Artificial Intelligence",
+     "slug": "artificial-intelligence",
+     "fullPath": "subject > science and technology > computer science > artificial intelligence"
+    },
+    {
+     "id": 13313,
+     "name": "reinforcement learning",
+     "displayName": "Reinforcement Learning",
+     "slug": "reinforcement-learning",
+     "fullPath": "task > reinforcement-learning"
+    },
+    {
+     "name": "custom metric",
+     "displayName": "Custom Metric",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "the-pokemon-company",
+    "name": "The Pokémon Company - PTCGABC Team",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/5151/thumbnail.png?t=2025-05-29-13-32-45",
+    "profileUrl": "/organizations/the-pokemon-company"
+   },
+   "launched": true,
+   "createdByUserId": 1095143,
+   "license": {
+    "id": 42,
+    "name": "Subject to Competition Rules"
+   },
+   "hostName": "The Pokémon Company - PTCGABC Team",
+   "scoreTruncationNumDecimals": 1,
+   "locked": true,
+   "totalJoinedUsers": 14081,
+   "requiresIdentityVerification": true,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "KNOWLEDGE",
+    "clarification": ""
+   },
+   "simulation": true,
+   "fileBasedSubmissions": true,
+   "url": "https://www.kaggle.com/competitions/pokemon-tcg-ai-battle"
+  },
+  {
+   "id": 134815,
+   "competitionName": "ai-agent-security-multi-step-tool-attacks",
+   "title": "AI Agent Security - Multi-Step Tool Attacks",
+   "briefDescription": "Develop attack algorithms to identify reproducible multi-step failures in tool-using AI agents. ",
+   "dateEnabled": "2026-06-11T18:31:39.920Z",
+   "deadline": "2026-09-01T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 50,
+   "maxDailySubmissions": 5,
+   "numScoredSubmissions": 2,
+   "hasSolution": true,
+   "numPrizes": 5,
+   "forumId": 10505188,
+   "finalLeaderboardHasBeenVerified": true,
+   "userRankMultiplier": 1,
+   "publicLeaderboardDisclaimerMessage": "The private leaderboard is evaluated using different guardrails, so the final standings may differ.",
+   "finalLeaderboardDisclaimerMessage": "",
+   "dateCreated": "2026-03-19T17:57:11.692407600Z",
+   "competitionHostSegmentId": 1,
+   "maxTeamSize": 5,
+   "medalsAllowed": true,
+   "enableTeamFiles": true,
+   "teamFileDeadline": "2026-10-31T00:00:00Z",
+   "teamMergerExplicitDeadline": "2026-08-25T23:59:59Z",
+   "prohibitNewEntrantsExplicitDeadline": "2026-08-25T23:59:00Z",
+   "kernelsPublishingDisabledDeadline": "2026-07-21T23:59:00Z",
+   "organizationId": 5089,
+   "hasCoverImageUrl": true,
+   "showPrivateLeaderboard": true,
+   "hasScripts": true,
+   "onlyAllowKernelSubmissions": true,
+   "totalTeams": 4186,
+   "totalCompetitors": 4751,
+   "totalSubmissions": 71594,
+   "rulesRequired": true,
+   "usesSynchronousReruns": true,
+   "maxCpuRuntimeMinutes": 900,
+   "maxGpuRuntimeMinutes": 900,
+   "rowIdColumnName": "Id",
+   "requiredSubmissionFilename": "submission.csv",
+   "evaluationAlgorithm": {
+    "id": 6968,
+    "name": "Agents Security Metric",
+    "isMax": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_JSON",
+    "kernelId": 122642336,
+    "latestCompetitionMetricVersionId": 69224,
+    "state": "AVAILABLE"
+   },
+   "categories": [
+    {
+     "id": 17181,
+     "name": "cyber security",
+     "displayName": "Cyber Security",
+     "slug": "cyber-security",
+     "fullPath": "subject > cyber security"
+    },
+    {
+     "name": "custom metric",
+     "displayName": "Custom Metric",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "openai",
+    "name": "OpenAI",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/5089/thumbnail.png?t=2025-08-14-19-21-59",
+    "profileUrl": "/organizations/openai"
+   },
+   "launched": true,
+   "createdByUserId": 19579895,
+   "license": {
+    "id": 31,
+    "name": "MIT",
+    "url": "https://www.mit.edu/~amini/LICENSE.md"
+   },
+   "hostName": "OpenAI",
+   "scoreTruncationNumDecimals": 5,
+   "locked": true,
+   "totalJoinedUsers": 12142,
+   "requiresIdentityVerification": true,
+   "submissionSizeLimitMb": 20480,
+   "gatewayKernelId": 113490969,
+   "reward": {
+    "id": "USD",
+    "quantity": 50000
+   },
+   "usesHearth": true,
+   "url": "https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks"
+  },
+  {
+   "id": 125222,
+   "competitionName": "playground-series-s6e6",
+   "title": "Predicting Stellar Class",
+   "briefDescription": "Playground Series - Season 6 Episode 6",
+   "dateEnabled": "2026-06-01T00:00:00Z",
+   "deadline": "2026-06-30T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 20,
+   "maxDailySubmissions": 10,
+   "numScoredSubmissions": 2,
+   "hasSolution": true,
+   "numPrizes": 3,
+   "forumId": 9538260,
+   "finalLeaderboardHasBeenVerified": true,
+   "dateCreated": "2025-12-03T22:15:44.279292900Z",
+   "competitionHostSegmentId": 8,
+   "maxTeamSize": 3,
+   "totalSolutionRows": 247435,
+   "organizationId": 4,
+   "hasCoverImageUrl": true,
+   "showPrivateLeaderboard": true,
+   "hasScripts": true,
+   "totalTeams": 2816,
+   "totalCompetitors": 2918,
+   "totalSubmissions": 33508,
+   "rulesRequired": true,
+   "clonedFromCompetitionId": 119082,
+   "rowIdColumnName": "id",
+   "evaluationAlgorithm": {
+    "id": 501,
+    "name": "Balanced Accuracy Score",
+    "isMax": true,
+    "isPublic": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_JSON",
+    "kernelId": 39244032,
+    "latestCompetitionMetricVersionId": 9198,
+    "state": "AVAILABLE"
+   },
+   "categories": [
+    {
+     "id": 13102,
+     "name": "beginner",
+     "displayName": "Beginner",
+     "slug": "beginner",
+     "fullPath": "audience > beginner"
+    },
+    {
+     "id": 14101,
+     "name": "tabular",
+     "displayName": "Tabular",
+     "slug": "tabular-data",
+     "fullPath": "data type > tabular"
+    },
+    {
+     "name": "balanced accuracy score",
+     "displayName": "Balanced Accuracy Score",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "kaggle",
+    "name": "Kaggle",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
+    "profileUrl": "/organizations/kaggle"
+   },
+   "launched": true,
+   "publiclyCloneable": "PUBLICLY_CLONEABLE_WITH_PRIVATE_SOLUTION_FILE",
+   "createdByUserId": 11812592,
+   "license": {
+    "id": 13,
+    "name": "Attribution 4.0 International (CC BY 4.0)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "hostName": "Kaggle",
+   "scoreTruncationNumDecimals": 5,
+   "locked": true,
+   "totalJoinedUsers": 5581,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "SWAG"
+   },
+   "fileBasedSubmissions": true,
+   "url": "https://www.kaggle.com/competitions/playground-series-s6e6"
+  },
+  {
+   "id": 132265,
+   "competitionName": "rogii-wellbore-geology-prediction",
+   "title": "ROGII - Wellbore Geology Prediction",
+   "briefDescription": "Build a model that contributes to automating drilling operations in the oil and gas industry.",
+   "dateEnabled": "2026-05-05T15:40:14.943Z",
+   "deadline": "2026-08-05T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 26,
+   "maxDailySubmissions": 5,
+   "numScoredSubmissions": 2,
+   "hasSolution": true,
+   "numPrizes": 4,
+   "forumId": 10301547,
+   "finalLeaderboardHasBeenVerified": true,
+   "userRankMultiplier": 1,
+   "publicLeaderboardDisclaimerMessage": "",
+   "finalLeaderboardDisclaimerMessage": "",
+   "dateCreated": "2026-02-27T18:51:31.706067700Z",
+   "competitionHostSegmentId": 1,
+   "maxTeamSize": 5,
+   "medalsAllowed": true,
+   "enableTeamFiles": true,
+   "teamFileDeadline": "2026-09-30T00:00:00Z",
+   "teamMergerExplicitDeadline": "2026-07-29T23:59:00Z",
+   "prohibitNewEntrantsExplicitDeadline": "2026-07-29T23:59:00Z",
+   "kernelsPublishingDisabledDeadline": "2026-07-23T23:59:00Z",
+   "organizationId": 5248,
+   "hasCoverImageUrl": true,
+   "showPrivateLeaderboard": true,
+   "hasScripts": true,
+   "onlyAllowKernelSubmissions": true,
+   "totalTeams": 6125,
+   "totalCompetitors": 6956,
+   "totalSubmissions": 161975,
+   "rulesRequired": true,
+   "usesSynchronousReruns": true,
+   "maxCpuRuntimeMinutes": 540,
+   "maxGpuRuntimeMinutes": 540,
+   "rowIdColumnName": "id",
+   "requiredSubmissionFilename": "submission.csv",
+   "evaluationAlgorithm": {
+    "id": 472,
+    "name": "Mean Squared Error",
+    "isPublic": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_JSON",
+    "kernelId": 39243534,
+    "latestCompetitionMetricVersionId": 9178,
+    "state": "AVAILABLE"
+   },
+   "categories": [
+    {
+     "id": 7203,
+     "name": "geology",
+     "displayName": "Geology",
+     "slug": "geology",
+     "fullPath": "subject > earth and nature > earth science > geology"
+    },
+    {
+     "id": 17081,
+     "name": "multimodal",
+     "displayName": "Multimodal",
+     "slug": "multimodal-data",
+     "fullPath": "data type > multimodal data"
+    },
+    {
+     "id": 17191,
+     "name": "evaluation",
+     "displayName": "Evaluation",
+     "slug": "evaluation",
+     "fullPath": "task > evaluation"
+    },
+    {
+     "name": "mean squared error",
+     "displayName": "Mean Squared Error",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "rogii",
+    "name": "ROGII",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/5248/thumbnail.png?t=2026-03-18-20-59-25",
+    "profileUrl": "/organizations/rogii"
+   },
+   "launched": true,
+   "createdByUserId": 8939556,
+   "license": {
+    "id": 42,
+    "name": "Subject to Competition Rules"
+   },
+   "hostName": "ROGII",
+   "scoreTruncationNumDecimals": 3,
+   "locked": true,
+   "totalJoinedUsers": 16341,
+   "requiresIdentityVerification": true,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "USD",
+    "quantity": 50000
+   },
+   "url": "https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction"
+  },
+  {
+   "id": 140389,
+   "competitionName": "maze-crawler",
+   "title": "Maze Crawler",
+   "briefDescription": "Navigate an infinite scrolling maze with fog of war in this 1v1 simulation",
+   "dateEnabled": "2026-05-01T16:24:03.243Z",
+   "deadline": "2026-06-30T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 30,
+   "maxDailySubmissions": 20,
+   "numScoredSubmissions": 2,
+   "forumId": 11077722,
+   "finalLeaderboardHasBeenVerified": true,
+   "disableSubmissions": true,
+   "publicLeaderboardDisclaimerMessage": "",
+   "finalLeaderboardDisclaimerMessage": "",
+   "dateCreated": "2026-04-30T18:39:36.185169800Z",
+   "competitionHostSegmentId": 8,
+   "maxTeamSize": 5,
+   "teamMergerExplicitDeadline": "2026-06-09T23:59:00Z",
+   "prohibitNewEntrantsExplicitDeadline": "2026-06-09T23:59:00Z",
+   "kernelsPublishingDisabledDeadline": "2026-06-09T23:59:00Z",
+   "organizationId": 4,
+   "hasCoverImageUrl": true,
+   "showPrivateLeaderboard": true,
+   "hasScripts": true,
+   "totalTeams": 459,
+   "totalCompetitors": 474,
+   "totalSubmissions": 849,
+   "rulesRequired": true,
+   "clonedFromCompetitionId": 139880,
+   "evaluationAlgorithm": {
+    "id": 6611,
+    "name": "crawl",
+    "isMax": true,
+    "isEnvironment": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_HTML",
+    "state": "ENVIRONMENT"
+   },
+   "categories": [
+    {
+     "id": 2500,
+     "name": "games",
+     "displayName": "Games",
+     "slug": "games-and-toys",
+     "fullPath": "subject > culture and humanities > games"
+    },
+    {
+     "id": 12101,
+     "name": "artificial intelligence",
+     "displayName": "Artificial Intelligence",
+     "slug": "artificial-intelligence",
+     "fullPath": "subject > science and technology > computer science > artificial intelligence"
+    },
+    {
+     "id": 13313,
+     "name": "reinforcement learning",
+     "displayName": "Reinforcement Learning",
+     "slug": "reinforcement-learning",
+     "fullPath": "task > reinforcement-learning"
+    },
+    {
+     "id": 16151,
+     "name": "simulations",
+     "displayName": "Simulations",
+     "slug": "simulation-games",
+     "fullPath": "subject > culture and humanities > games > video games > simulations"
+    },
+    {
+     "name": "custom metric",
+     "displayName": "Custom Metric",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "kaggle",
+    "name": "Kaggle",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
+    "profileUrl": "/organizations/kaggle"
+   },
+   "launched": true,
+   "createdByUserId": 50767,
+   "license": {
+    "id": 31,
+    "name": "MIT",
+    "url": "https://www.mit.edu/~amini/LICENSE.md"
+   },
+   "hostName": "Kaggle",
+   "scoreTruncationNumDecimals": 1,
+   "locked": true,
+   "totalJoinedUsers": 1849,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "KNOWLEDGE"
+   },
+   "simulation": true,
+   "fileBasedSubmissions": true,
+   "url": "https://www.kaggle.com/competitions/maze-crawler"
+  },
+  {
+   "id": 125221,
+   "competitionName": "playground-series-s6e5",
+   "title": "Predicting F1 Pit Stops",
+   "briefDescription": "Playground Series - Season 6 Episode 5",
+   "dateEnabled": "2026-05-01T00:00:03.120Z",
+   "deadline": "2026-05-31T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 20,
+   "maxDailySubmissions": 10,
+   "numScoredSubmissions": 2,
+   "hasSolution": true,
+   "numPrizes": 3,
+   "forumId": 9538241,
+   "finalLeaderboardHasBeenVerified": true,
+   "dateCreated": "2025-12-03T22:12:16.196048900Z",
+   "competitionHostSegmentId": 8,
+   "maxTeamSize": 3,
+   "totalSolutionRows": 188165,
+   "organizationId": 4,
+   "hasCoverImageUrl": true,
+   "showPrivateLeaderboard": true,
+   "hasScripts": true,
+   "totalTeams": 3022,
+   "totalCompetitors": 3138,
+   "totalSubmissions": 36362,
+   "rulesRequired": true,
+   "clonedFromCompetitionId": 119082,
+   "rowIdColumnName": "id",
+   "evaluationAlgorithm": {
+    "id": 499,
+    "name": "Roc Auc Score",
+    "isMax": true,
+    "isPublic": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_JSON",
+    "kernelId": 39244492,
+    "latestCompetitionMetricVersionId": 9197,
+    "state": "AVAILABLE"
+   },
+   "categories": [
+    {
+     "id": 13102,
+     "name": "beginner",
+     "displayName": "Beginner",
+     "slug": "beginner",
+     "fullPath": "audience > beginner"
+    },
+    {
+     "id": 14101,
+     "name": "tabular",
+     "displayName": "Tabular",
+     "slug": "tabular-data",
+     "fullPath": "data type > tabular"
+    },
+    {
+     "name": "roc auc score",
+     "displayName": "Roc Auc Score",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "kaggle",
+    "name": "Kaggle",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
+    "profileUrl": "/organizations/kaggle"
+   },
+   "launched": true,
+   "publiclyCloneable": "PUBLICLY_CLONEABLE_WITH_PRIVATE_SOLUTION_FILE",
+   "createdByUserId": 11812592,
+   "license": {
+    "id": 13,
+    "name": "Attribution 4.0 International (CC BY 4.0)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+   },
+   "hostName": "Kaggle",
+   "scoreTruncationNumDecimals": 5,
+   "locked": true,
+   "totalJoinedUsers": 6152,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "SWAG"
+   },
+   "fileBasedSubmissions": true,
+   "url": "https://www.kaggle.com/competitions/playground-series-s6e5"
+  },
+  {
+   "id": 137190,
+   "competitionName": "5-day-ai-agents-intensive-vibecoding-course-with-google",
+   "title": "5-Day AI Agents: Intensive Vibe Coding Course With Google",
+   "briefDescription": "June 15 - 19, 2026",
+   "dateEnabled": "2026-04-21T12:47:50.587Z",
+   "deadline": "2026-06-19T07:00:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 30,
+   "maxDailySubmissions": 4,
+   "numScoredSubmissions": 2,
+   "numPrizes": 1,
+   "forumId": 10729900,
+   "dateCreated": "2026-04-07T16:02:26.085440100Z",
+   "competitionHostSegmentId": 1,
+   "maxTeamSize": 1,
+   "prohibitNewEntrants": true,
+   "prohibitNewEntrantsExplicitDeadline": "2026-06-14T23:59:00Z",
+   "organizationId": 855,
+   "hasCoverImageUrl": true,
+   "showPrivateLeaderboard": true,
+   "hasScripts": true,
+   "categories": [
+    {
+     "id": 16002,
+     "name": "learn",
+     "displayName": "Learn",
+     "slug": "learn",
+     "fullPath": "admin > learn course"
+    }
+   ],
+   "organization": {
+    "slug": "google",
+    "name": "Google",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/855/thumbnail.png",
+    "profileUrl": "/organizations/google"
+   },
+   "launched": true,
+   "createdByUserId": 13962117,
+   "enableUserEmailShare": true,
+   "hostName": "Google",
+   "scoreTruncationNumDecimals": 5,
+   "locked": true,
+   "totalJoinedUsers": 347137,
+   "submissionSizeLimitMb": 20480,
+   "reward": {},
+   "hackathon": true,
+   "isFiveDaysHackathon": true,
+   "fileBasedSubmissions": true,
+   "url": "https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google"
+  },
+  {
+   "id": 138420,
+   "competitionName": "orbit-wars",
+   "title": "Orbit Wars",
+   "briefDescription": "Conquer planets rotating around a sun in continuous 2D space. A real-time strategy game for 2 or 4 players.",
+   "dateEnabled": "2026-04-16T19:01:30.503Z",
+   "deadline": "2026-07-07T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 30,
+   "maxDailySubmissions": 5,
+   "numScoredSubmissions": 2,
+   "numPrizes": 10,
+   "forumId": 10876718,
+   "finalLeaderboardHasBeenVerified": true,
+   "disableSubmissions": true,
+   "userRankMultiplier": 1,
+   "dateCreated": "2026-04-15T20:54:14.398072500Z",
+   "competitionHostSegmentId": 1,
+   "maxTeamSize": 5,
+   "medalsAllowed": true,
+   "enableTeamFiles": true,
+   "teamFileDeadline": "2026-10-31T00:00:00Z",
+   "teamMergerExplicitDeadline": "2026-06-16T23:59:00Z",
+   "prohibitNewEntrantsExplicitDeadline": "2026-06-16T23:59:00Z",
+   "kernelsPublishingDisabledDeadline": "2026-06-16T23:59:00Z",
+   "organizationId": 4,
+   "hasCoverImageUrl": true,
+   "showPrivateLeaderboard": true,
+   "hasScripts": true,
+   "totalTeams": 4729,
+   "totalCompetitors": 5196,
+   "totalSubmissions": 9047,
+   "rulesRequired": true,
+   "clonedFromCompetitionId": 86411,
+   "evaluationAlgorithm": {
+    "id": 6438,
+    "name": "orbit_wars",
+    "isMax": true,
+    "isEnvironment": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_HTML",
+    "state": "ENVIRONMENT"
+   },
+   "categories": [
+    {
+     "id": 2500,
+     "name": "games",
+     "displayName": "Games",
+     "slug": "games-and-toys",
+     "fullPath": "subject > culture and humanities > games"
+    },
+    {
+     "id": 12101,
+     "name": "artificial intelligence",
+     "displayName": "Artificial Intelligence",
+     "slug": "artificial-intelligence",
+     "fullPath": "subject > science and technology > computer science > artificial intelligence"
+    },
+    {
+     "id": 13313,
+     "name": "reinforcement learning",
+     "displayName": "Reinforcement Learning",
+     "slug": "reinforcement-learning",
+     "fullPath": "task > reinforcement-learning"
+    },
+    {
+     "name": "custom metric",
+     "displayName": "Custom Metric",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "kaggle",
+    "name": "Kaggle",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
+    "profileUrl": "/organizations/kaggle"
+   },
+   "launched": true,
+   "createdByUserId": 50767,
+   "license": {
+    "id": 30,
+    "name": "Apache 2.0",
+    "url": "https://www.apache.org/licenses/LICENSE-2.0"
+   },
+   "hostName": "Kaggle",
+   "scoreTruncationNumDecimals": 1,
+   "locked": true,
+   "totalJoinedUsers": 10196,
+   "requiresIdentityVerification": true,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "USD",
+    "quantity": 50000
+   },
+   "simulation": true,
+   "fileBasedSubmissions": true,
+   "url": "https://www.kaggle.com/competitions/orbit-wars"
+  }
+ ]
+}
