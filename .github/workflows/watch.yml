@@ -1,0 +1,29 @@
+name: watch
+# Long-lived watcher. No cron here: each run polls Kaggle every INTERVAL_S,
+# commits data on change, and hands off to a successor run before the 6h limit.
+# tick.yml is the watchdog that restarts it if it dies.
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: kaggle-watch
+  cancel-in-progress: false
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    env:
+      GH_TOKEN: ${{ github.token }}
+      INTERVAL_S: ${{ vars.INTERVAL_S || '600' }}
+      HANDOFF_MIN: ${{ vars.HANDOFF_MIN || '335' }}
+      PAGE_SIZE: ${{ vars.PAGE_SIZE || '20' }}
+      LIST_OPTION: ${{ vars.LIST_OPTION || 'LIST_OPTION_DEFAULT' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 1
+      - name: Poll loop with self handoff
+        run: bash loop.sh

@@ -1,0 +1,30 @@
+name: tick
+# Watchdog: every 5 min (GitHub cron floor) make sure one watch.yml run is
+# alive (queued/pending/in_progress). If none, dispatch one. Never touches a
+# healthy watcher, so there are never two watchers.
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+permissions:
+  actions: write
+  contents: read
+concurrency:
+  group: kaggle-watch-tick
+  cancel-in-progress: false
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Restart watch.yml if no run is alive
+        run: |
+          set -euo pipefail
+          alive=$(gh api "repos/$GITHUB_REPOSITORY/actions/workflows/watch.yml/runs?per_page=10" --jq '[.workflow_runs[] | select(.status != "completed")] | length')
+          echo "alive watch runs: $alive"
+          if [ "$alive" -eq 0 ]; then
+            gh workflow run watch.yml --repo "$GITHUB_REPOSITORY" --ref "$GITHUB_REF_NAME"
+            echo "dispatched watch.yml"
+          fi
