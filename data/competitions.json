@@ -22,7 +22,7 @@
   "hasScripts": true,
   "totalTeams": 555,
   "totalCompetitors": 568,
-  "totalSubmissions": 3009,
+  "totalSubmissions": 3022,
   "rulesRequired": true,
   "clonedFromCompetitionId": 119082,
   "rowIdColumnName": "id",
@@ -72,7 +72,7 @@
   },
   "hostName": "Kaggle",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 1308,
+  "totalJoinedUsers": 1309,
   "submissionSizeLimitMb": 20480,
   "reward": {
    "id": "SWAG"
@@ -80,7 +80,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/playground-series-s6e10",
   "firstSeen": "2026-10-01T00:08:45Z",
-  "lastChanged": "2026-10-03T18:36:18Z"
+  "lastChanged": "2026-10-03T18:46:17Z"
  },
  "168019": {
   "id": 168019,
@@ -227,7 +227,7 @@
   },
   "hostName": "Google DeepMind",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 3176,
+  "totalJoinedUsers": 3179,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -238,7 +238,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent-paper",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-03T18:36:18Z"
+  "lastChanged": "2026-10-03T18:46:17Z"
  },
  "149921": {
   "id": 149921,
@@ -267,9 +267,9 @@
   "organizationId": 3823,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 1557,
-  "totalCompetitors": 1662,
-  "totalSubmissions": 5381,
+  "totalTeams": 1561,
+  "totalCompetitors": 1666,
+  "totalSubmissions": 5388,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 720,
@@ -333,7 +333,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-03T18:36:18Z"
+  "lastChanged": "2026-10-03T18:46:17Z"
  },
  "143318": {
   "id": 143318,
@@ -363,7 +363,7 @@
   "onlyAllowKernelSubmissions": true,
   "totalTeams": 2321,
   "totalCompetitors": 2474,
-  "totalSubmissions": 25675,
+  "totalSubmissions": 25690,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -416,7 +416,7 @@
   "hostName": "Enveda",
   "scoreTruncationNumDecimals": 3,
   "rerunMaxStaggerMinutes": 5,
-  "totalJoinedUsers": 8421,
+  "totalJoinedUsers": 8422,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -425,7 +425,7 @@
   },
   "url": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-03T18:36:18Z"
+  "lastChanged": "2026-10-03T18:46:17Z"
  },
  "125219": {
   "id": 125219,
@@ -543,7 +543,7 @@
   "onlyAllowKernelSubmissions": true,
   "totalTeams": 5020,
   "totalCompetitors": 5699,
-  "totalSubmissions": 78914,
+  "totalSubmissions": 78933,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -616,7 +616,7 @@
   },
   "hostName": "Radiological Society of North America",
   "scoreTruncationNumDecimals": 3,
-  "totalJoinedUsers": 23736,
+  "totalJoinedUsers": 23739,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -626,7 +626,7 @@
   },
   "url": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-03T18:36:18Z"
+  "lastChanged": "2026-10-03T18:46:17Z"
  },
  "125218": {
   "id": 125218,
