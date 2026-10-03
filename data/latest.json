@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-03T19:16:18Z",
+ "updatedAt": "2026-10-03T19:26:17Z",
  "listOption": "LIST_OPTION_DEFAULT",
  "pageSize": 20,
  "totalResults": 756,
@@ -27,7 +27,7 @@
    "hasScripts": true,
    "totalTeams": 558,
    "totalCompetitors": 571,
-   "totalSubmissions": 3042,
+   "totalSubmissions": 3048,
    "rulesRequired": true,
    "clonedFromCompetitionId": 119082,
    "rowIdColumnName": "id",
@@ -77,7 +77,7 @@
    },
    "hostName": "Kaggle",
    "scoreTruncationNumDecimals": 5,
-   "totalJoinedUsers": 1314,
+   "totalJoinedUsers": 1316,
    "submissionSizeLimitMb": 20480,
    "reward": {
     "id": "SWAG"
@@ -162,7 +162,7 @@
    },
    "hostName": "The Pokémon Company - PTCGABC Team",
    "scoreTruncationNumDecimals": 1,
-   "totalJoinedUsers": 558,
+   "totalJoinedUsers": 559,
    "submissionSizeLimitMb": 20480,
    "reward": {
     "id": "SWAG"
@@ -228,7 +228,7 @@
    },
    "hostName": "Google DeepMind",
    "scoreTruncationNumDecimals": 5,
-   "totalJoinedUsers": 3184,
+   "totalJoinedUsers": 3186,
    "requiresIdentityVerification": true,
    "submissionSizeLimitMb": 20480,
    "reward": {
@@ -268,7 +268,7 @@
    "hasScripts": true,
    "totalTeams": 1562,
    "totalCompetitors": 1668,
-   "totalSubmissions": 5397,
+   "totalSubmissions": 5402,
    "rulesRequired": true,
    "usesSynchronousReruns": true,
    "maxCpuRuntimeMinutes": 720,
@@ -320,7 +320,7 @@
    },
    "hostName": "Google DeepMind",
    "scoreTruncationNumDecimals": 2,
-   "totalJoinedUsers": 7969,
+   "totalJoinedUsers": 7972,
    "requiresIdentityVerification": true,
    "submissionSizeLimitMb": 20480,
    "reward": {
@@ -358,9 +358,9 @@
    "hasCoverImageUrl": true,
    "hasScripts": true,
    "onlyAllowKernelSubmissions": true,
-   "totalTeams": 2324,
-   "totalCompetitors": 2477,
-   "totalSubmissions": 25740,
+   "totalTeams": 2326,
+   "totalCompetitors": 2479,
+   "totalSubmissions": 25753,
    "rulesRequired": true,
    "usesSynchronousReruns": true,
    "maxCpuRuntimeMinutes": 540,
@@ -536,7 +536,7 @@
    "onlyAllowKernelSubmissions": true,
    "totalTeams": 5024,
    "totalCompetitors": 5704,
-   "totalSubmissions": 78988,
+   "totalSubmissions": 79003,
    "rulesRequired": true,
    "usesSynchronousReruns": true,
    "maxCpuRuntimeMinutes": 540,
@@ -609,7 +609,7 @@
    },
    "hostName": "Radiological Society of North America",
    "scoreTruncationNumDecimals": 3,
-   "totalJoinedUsers": 23741,
+   "totalJoinedUsers": 23744,
    "requiresIdentityVerification": true,
    "submissionSizeLimitMb": 20480,
    "reward": {
