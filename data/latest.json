@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-03T18:16:18Z",
+ "updatedAt": "2026-10-03T18:26:18Z",
  "listOption": "LIST_OPTION_DEFAULT",
  "pageSize": 20,
  "totalResults": 756,
@@ -27,7 +27,7 @@
    "hasScripts": true,
    "totalTeams": 553,
    "totalCompetitors": 566,
-   "totalSubmissions": 2997,
+   "totalSubmissions": 3004,
    "rulesRequired": true,
    "clonedFromCompetitionId": 119082,
    "rowIdColumnName": "id",
@@ -77,7 +77,7 @@
    },
    "hostName": "Kaggle",
    "scoreTruncationNumDecimals": 5,
-   "totalJoinedUsers": 1302,
+   "totalJoinedUsers": 1308,
    "submissionSizeLimitMb": 20480,
    "reward": {
     "id": "SWAG"
@@ -228,7 +228,7 @@
    },
    "hostName": "Google DeepMind",
    "scoreTruncationNumDecimals": 5,
-   "totalJoinedUsers": 3171,
+   "totalJoinedUsers": 3173,
    "requiresIdentityVerification": true,
    "submissionSizeLimitMb": 20480,
    "reward": {
@@ -268,7 +268,7 @@
    "hasScripts": true,
    "totalTeams": 1555,
    "totalCompetitors": 1660,
-   "totalSubmissions": 5375,
+   "totalSubmissions": 5377,
    "rulesRequired": true,
    "usesSynchronousReruns": true,
    "maxCpuRuntimeMinutes": 720,
@@ -320,7 +320,7 @@
    },
    "hostName": "Google DeepMind",
    "scoreTruncationNumDecimals": 2,
-   "totalJoinedUsers": 7953,
+   "totalJoinedUsers": 7955,
    "requiresIdentityVerification": true,
    "submissionSizeLimitMb": 20480,
    "reward": {
@@ -360,7 +360,7 @@
    "onlyAllowKernelSubmissions": true,
    "totalTeams": 2320,
    "totalCompetitors": 2473,
-   "totalSubmissions": 25643,
+   "totalSubmissions": 25659,
    "rulesRequired": true,
    "usesSynchronousReruns": true,
    "maxCpuRuntimeMinutes": 540,
@@ -413,7 +413,7 @@
    "hostName": "Enveda",
    "scoreTruncationNumDecimals": 3,
    "rerunMaxStaggerMinutes": 5,
-   "totalJoinedUsers": 8417,
+   "totalJoinedUsers": 8419,
    "requiresIdentityVerification": true,
    "submissionSizeLimitMb": 20480,
    "reward": {
@@ -536,7 +536,7 @@
    "onlyAllowKernelSubmissions": true,
    "totalTeams": 5020,
    "totalCompetitors": 5699,
-   "totalSubmissions": 78883,
+   "totalSubmissions": 78899,
    "rulesRequired": true,
    "usesSynchronousReruns": true,
    "maxCpuRuntimeMinutes": 540,
@@ -609,7 +609,7 @@
    },
    "hostName": "Radiological Society of North America",
    "scoreTruncationNumDecimals": 3,
-   "totalJoinedUsers": 23733,
+   "totalJoinedUsers": 23735,
    "requiresIdentityVerification": true,
    "submissionSizeLimitMb": 20480,
    "reward": {
