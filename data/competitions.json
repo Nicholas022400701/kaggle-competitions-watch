@@ -22,7 +22,7 @@
   "hasScripts": true,
   "totalTeams": 552,
   "totalCompetitors": 565,
-  "totalSubmissions": 2975,
+  "totalSubmissions": 2980,
   "rulesRequired": true,
   "clonedFromCompetitionId": 119082,
   "rowIdColumnName": "id",
@@ -72,7 +72,7 @@
   },
   "hostName": "Kaggle",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 1298,
+  "totalJoinedUsers": 1300,
   "submissionSizeLimitMb": 20480,
   "reward": {
    "id": "SWAG"
@@ -80,7 +80,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/playground-series-s6e10",
   "firstSeen": "2026-10-01T00:08:45Z",
-  "lastChanged": "2026-10-03T17:51:08Z"
+  "lastChanged": "2026-10-03T18:06:18Z"
  },
  "168019": {
   "id": 168019,
@@ -159,7 +159,7 @@
   },
   "hostName": "The Pokémon Company - PTCGABC Team",
   "scoreTruncationNumDecimals": 1,
-  "totalJoinedUsers": 553,
+  "totalJoinedUsers": 555,
   "submissionSizeLimitMb": 20480,
   "reward": {
    "id": "SWAG"
@@ -168,7 +168,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-03T17:51:08Z"
+  "lastChanged": "2026-10-03T18:06:18Z"
  },
  "163111": {
   "id": 163111,
@@ -227,7 +227,7 @@
   },
   "hostName": "Google DeepMind",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 3168,
+  "totalJoinedUsers": 3171,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -238,7 +238,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent-paper",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-03T17:51:08Z"
+  "lastChanged": "2026-10-03T18:06:18Z"
  },
  "149921": {
   "id": 149921,
@@ -267,9 +267,9 @@
   "organizationId": 3823,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 1552,
-  "totalCompetitors": 1657,
-  "totalSubmissions": 5361,
+  "totalTeams": 1554,
+  "totalCompetitors": 1659,
+  "totalSubmissions": 5368,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 720,
@@ -321,7 +321,7 @@
   },
   "hostName": "Google DeepMind",
   "scoreTruncationNumDecimals": 2,
-  "totalJoinedUsers": 7949,
+  "totalJoinedUsers": 7952,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -333,7 +333,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-03T17:51:08Z"
+  "lastChanged": "2026-10-03T18:06:18Z"
  },
  "143318": {
   "id": 143318,
@@ -361,9 +361,9 @@
   "hasCoverImageUrl": true,
   "hasScripts": true,
   "onlyAllowKernelSubmissions": true,
-  "totalTeams": 2316,
-  "totalCompetitors": 2469,
-  "totalSubmissions": 25608,
+  "totalTeams": 2317,
+  "totalCompetitors": 2470,
+  "totalSubmissions": 25623,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -416,7 +416,7 @@
   "hostName": "Enveda",
   "scoreTruncationNumDecimals": 3,
   "rerunMaxStaggerMinutes": 5,
-  "totalJoinedUsers": 8414,
+  "totalJoinedUsers": 8416,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -425,7 +425,7 @@
   },
   "url": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-03T17:51:08Z"
+  "lastChanged": "2026-10-03T18:06:18Z"
  },
  "125219": {
   "id": 125219,
@@ -541,9 +541,9 @@
   "hasCoverImageUrl": true,
   "hasScripts": true,
   "onlyAllowKernelSubmissions": true,
-  "totalTeams": 5017,
-  "totalCompetitors": 5694,
-  "totalSubmissions": 78849,
+  "totalTeams": 5020,
+  "totalCompetitors": 5699,
+  "totalSubmissions": 78872,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -616,7 +616,7 @@
   },
   "hostName": "Radiological Society of North America",
   "scoreTruncationNumDecimals": 3,
-  "totalJoinedUsers": 23731,
+  "totalJoinedUsers": 23733,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -626,7 +626,7 @@
   },
   "url": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-03T17:51:08Z"
+  "lastChanged": "2026-10-03T18:06:18Z"
  },
  "125218": {
   "id": 125218,
