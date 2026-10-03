@@ -20,9 +20,9 @@
   "organizationId": 4,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 201,
-  "totalCompetitors": 204,
-  "totalSubmissions": 654,
+  "totalTeams": 552,
+  "totalCompetitors": 565,
+  "totalSubmissions": 2975,
   "rulesRequired": true,
   "clonedFromCompetitionId": 119082,
   "rowIdColumnName": "id",
@@ -72,7 +72,7 @@
   },
   "hostName": "Kaggle",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 588,
+  "totalJoinedUsers": 1298,
   "submissionSizeLimitMb": 20480,
   "reward": {
    "id": "SWAG"
@@ -80,7 +80,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/playground-series-s6e10",
   "firstSeen": "2026-10-01T00:08:45Z",
-  "lastChanged": "2026-10-01T16:24:20Z"
+  "lastChanged": "2026-10-03T17:51:08Z"
  },
  "168019": {
   "id": 168019,
@@ -104,9 +104,9 @@
   "organizationId": 5151,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 89,
-  "totalCompetitors": 95,
-  "totalSubmissions": 161,
+  "totalTeams": 149,
+  "totalCompetitors": 156,
+  "totalSubmissions": 267,
   "rulesRequired": true,
   "clonedFromCompetitionId": 116727,
   "evaluationAlgorithm": {
@@ -159,7 +159,7 @@
   },
   "hostName": "The Pokémon Company - PTCGABC Team",
   "scoreTruncationNumDecimals": 1,
-  "totalJoinedUsers": 388,
+  "totalJoinedUsers": 553,
   "submissionSizeLimitMb": 20480,
   "reward": {
    "id": "SWAG"
@@ -168,7 +168,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-01T16:24:20Z"
+  "lastChanged": "2026-10-03T17:51:08Z"
  },
  "163111": {
   "id": 163111,
@@ -192,9 +192,9 @@
   "organizationId": 3823,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 89,
-  "totalCompetitors": 89,
-  "totalSubmissions": 92,
+  "totalTeams": 109,
+  "totalCompetitors": 109,
+  "totalSubmissions": 112,
   "rulesRequired": true,
   "categories": [
    {
@@ -227,7 +227,7 @@
   },
   "hostName": "Google DeepMind",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 2720,
+  "totalJoinedUsers": 3168,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -238,7 +238,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent-paper",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-01T16:24:20Z"
+  "lastChanged": "2026-10-03T17:51:08Z"
  },
  "149921": {
   "id": 149921,
@@ -267,9 +267,9 @@
   "organizationId": 3823,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 1185,
-  "totalCompetitors": 1261,
-  "totalSubmissions": 3792,
+  "totalTeams": 1552,
+  "totalCompetitors": 1657,
+  "totalSubmissions": 5361,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 720,
@@ -321,7 +321,7 @@
   },
   "hostName": "Google DeepMind",
   "scoreTruncationNumDecimals": 2,
-  "totalJoinedUsers": 7115,
+  "totalJoinedUsers": 7949,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -333,7 +333,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-01T16:24:20Z"
+  "lastChanged": "2026-10-03T17:51:08Z"
  },
  "143318": {
   "id": 143318,
@@ -361,9 +361,9 @@
   "hasCoverImageUrl": true,
   "hasScripts": true,
   "onlyAllowKernelSubmissions": true,
-  "totalTeams": 2016,
-  "totalCompetitors": 2146,
-  "totalSubmissions": 21213,
+  "totalTeams": 2316,
+  "totalCompetitors": 2469,
+  "totalSubmissions": 25608,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -416,7 +416,7 @@
   "hostName": "Enveda",
   "scoreTruncationNumDecimals": 3,
   "rerunMaxStaggerMinutes": 5,
-  "totalJoinedUsers": 7947,
+  "totalJoinedUsers": 8414,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -425,7 +425,7 @@
   },
   "url": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-01T16:24:20Z"
+  "lastChanged": "2026-10-03T17:51:08Z"
  },
  "125219": {
   "id": 125219,
@@ -452,7 +452,7 @@
   "hasScripts": true,
   "totalTeams": 3575,
   "totalCompetitors": 3715,
-  "totalSubmissions": 38683,
+  "totalSubmissions": 38684,
   "rulesRequired": true,
   "clonedFromCompetitionId": 119082,
   "rowIdColumnName": "id",
@@ -511,7 +511,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/playground-series-s6e9",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-01T00:08:45Z"
+  "lastChanged": "2026-10-03T01:40:39Z"
  },
  "154281": {
   "id": 154281,
@@ -541,9 +541,9 @@
   "hasCoverImageUrl": true,
   "hasScripts": true,
   "onlyAllowKernelSubmissions": true,
-  "totalTeams": 4753,
-  "totalCompetitors": 5387,
-  "totalSubmissions": 73713,
+  "totalTeams": 5017,
+  "totalCompetitors": 5694,
+  "totalSubmissions": 78849,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -616,7 +616,7 @@
   },
   "hostName": "Radiological Society of North America",
   "scoreTruncationNumDecimals": 3,
-  "totalJoinedUsers": 23318,
+  "totalJoinedUsers": 23731,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -626,7 +626,7 @@
   },
   "url": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-01T16:24:20Z"
+  "lastChanged": "2026-10-03T17:51:08Z"
  },
  "125218": {
   "id": 125218,
@@ -983,11 +983,14 @@
   "hasSolution": true,
   "numPrizes": 7,
   "forumId": 10656304,
+  "finalLeaderboardHasBeenVerified": true,
   "userRankMultiplier": 1,
   "dateCreated": "2026-04-01T21:58:55.077484900Z",
   "competitionHostSegmentId": 2,
   "maxTeamSize": 5,
   "medalsAllowed": true,
+  "enableTeamFiles": true,
+  "teamFileDeadline": "2026-11-30T00:00:00Z",
   "teamMergerExplicitDeadline": "2026-09-22T23:59:00Z",
   "prohibitNewEntrantsExplicitDeadline": "2026-09-22T23:59:00Z",
   "kernelsPublishingDisabledDeadline": "2026-09-22T23:59:00Z",
@@ -996,9 +999,9 @@
   "showPrivateLeaderboard": true,
   "hasScripts": true,
   "onlyAllowKernelSubmissions": true,
-  "totalTeams": 4017,
-  "totalCompetitors": 4602,
-  "totalSubmissions": 97524,
+  "totalTeams": 3947,
+  "totalCompetitors": 4478,
+  "totalSubmissions": 95438,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 720,
@@ -1071,9 +1074,9 @@
    "url": "https://creativecommons.org/publicdomain/zero/1.0/"
   },
   "hostName": "Biohub",
-  "scoreTruncationNumDecimals": 3,
+  "scoreTruncationNumDecimals": 5,
   "rerunMaxStaggerMinutes": 5,
-  "totalJoinedUsers": 13475,
+  "totalJoinedUsers": 13351,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -1082,7 +1085,7 @@
   },
   "url": "https://www.kaggle.com/competitions/biohub-cell-tracking-during-development",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-09-30T12:18:23Z"
+  "lastChanged": "2026-10-01T18:11:00Z"
  },
  "131772": {
   "id": 131772,
@@ -1772,7 +1775,7 @@
   "hostName": "Google",
   "scoreTruncationNumDecimals": 5,
   "locked": true,
-  "totalJoinedUsers": 347134,
+  "totalJoinedUsers": 347130,
   "submissionSizeLimitMb": 20480,
   "reward": {},
   "hackathon": true,
@@ -1780,7 +1783,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-01T11:09:08Z"
+  "lastChanged": "2026-10-03T05:40:38Z"
  },
  "138420": {
   "id": 138420,
