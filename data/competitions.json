@@ -62,7 +62,7 @@
   },
   "hostName": "The National Football League",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 4808,
+  "totalJoinedUsers": 4811,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -73,7 +73,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2027",
   "firstSeen": "2026-10-06T19:53:38Z",
-  "lastChanged": "2026-10-11T00:19:08Z"
+  "lastChanged": "2026-10-11T00:29:08Z"
  },
  "125224": {
   "id": 125224,
@@ -98,7 +98,7 @@
   "hasScripts": true,
   "totalTeams": 1448,
   "totalCompetitors": 1481,
-  "totalSubmissions": 12160,
+  "totalSubmissions": 12167,
   "rulesRequired": true,
   "clonedFromCompetitionId": 119082,
   "rowIdColumnName": "id",
@@ -156,7 +156,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/playground-series-s6e10",
   "firstSeen": "2026-10-01T00:08:45Z",
-  "lastChanged": "2026-10-11T00:19:08Z"
+  "lastChanged": "2026-10-11T00:29:08Z"
  },
  "168019": {
   "id": 168019,
@@ -303,7 +303,7 @@
   },
   "hostName": "Google DeepMind",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 4248,
+  "totalJoinedUsers": 4251,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -314,7 +314,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent-paper",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-10T23:59:08Z"
+  "lastChanged": "2026-10-11T00:29:08Z"
  },
  "149921": {
   "id": 149921,
@@ -343,9 +343,9 @@
   "organizationId": 3823,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 2331,
-  "totalCompetitors": 2534,
-  "totalSubmissions": 10438,
+  "totalTeams": 2332,
+  "totalCompetitors": 2535,
+  "totalSubmissions": 10444,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 720,
@@ -397,7 +397,7 @@
   },
   "hostName": "Google DeepMind",
   "scoreTruncationNumDecimals": 2,
-  "totalJoinedUsers": 10006,
+  "totalJoinedUsers": 10008,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -410,7 +410,7 @@
   "maxPendingSubmissionsPerTeam": 1,
   "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-11T00:19:08Z"
+  "lastChanged": "2026-10-11T00:29:08Z"
  },
  "143318": {
   "id": 143318,
@@ -440,7 +440,7 @@
   "onlyAllowKernelSubmissions": true,
   "totalTeams": 3016,
   "totalCompetitors": 3251,
-  "totalSubmissions": 42161,
+  "totalSubmissions": 42180,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -502,7 +502,7 @@
   },
   "url": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-11T00:19:08Z"
+  "lastChanged": "2026-10-11T00:29:08Z"
  },
  "125219": {
   "id": 125219,
@@ -619,9 +619,9 @@
   "hasCoverImageUrl": true,
   "hasScripts": true,
   "onlyAllowKernelSubmissions": true,
-  "totalTeams": 5710,
-  "totalCompetitors": 6538,
-  "totalSubmissions": 104689,
+  "totalTeams": 5711,
+  "totalCompetitors": 6539,
+  "totalSubmissions": 104730,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -704,7 +704,7 @@
   },
   "url": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-11T00:19:08Z"
+  "lastChanged": "2026-10-11T00:29:08Z"
  },
  "125218": {
   "id": 125218,
