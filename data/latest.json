@@ -1,9 +1,167 @@
 {
- "updatedAt": "2026-10-01T16:24:20Z",
+ "updatedAt": "2026-10-17T17:03:32Z",
  "listOption": "LIST_OPTION_DEFAULT",
  "pageSize": 20,
- "totalResults": 756,
+ "totalResults": 758,
  "competitions": [
+  {
+   "id": 170484,
+   "competitionName": "name-that-llm",
+   "title": "Name That LLM",
+   "briefDescription": "Identify the model behind the text",
+   "dateEnabled": "2026-10-14T13:15:00Z",
+   "deadline": "2027-01-14T23:59:00.817Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 40,
+   "maxDailySubmissions": 5,
+   "numScoredSubmissions": 2,
+   "hasSolution": true,
+   "numPrizes": 10,
+   "forumId": 13688374,
+   "userRankMultiplier": 1,
+   "dateCreated": "2026-10-06T22:38:25.913963800Z",
+   "competitionHostSegmentId": 1,
+   "maxTeamSize": 5,
+   "medalsAllowed": true,
+   "teamMergerExplicitDeadline": "2027-01-06T23:59:00Z",
+   "prohibitNewEntrantsExplicitDeadline": "2027-01-06T23:59:00Z",
+   "kernelsPublishingDisabledDeadline": "2027-01-06T23:59:00Z",
+   "organizationId": 4,
+   "hasCoverImageUrl": true,
+   "hasScripts": true,
+   "onlyAllowKernelSubmissions": true,
+   "totalTeams": 1271,
+   "totalCompetitors": 1310,
+   "totalSubmissions": 5215,
+   "rulesRequired": true,
+   "usesSynchronousReruns": true,
+   "maxCpuRuntimeMinutes": 540,
+   "maxGpuRuntimeMinutes": 540,
+   "clonedFromCompetitionId": 166081,
+   "rowIdColumnName": "id",
+   "requiredSubmissionFilename": "submission.parquet",
+   "evaluationAlgorithm": {
+    "id": 501,
+    "name": "Balanced Accuracy Score",
+    "isMax": true,
+    "isPublic": true,
+    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_JSON",
+    "kernelId": 39244032,
+    "latestCompetitionMetricVersionId": 9198,
+    "state": "AVAILABLE"
+   },
+   "categories": [
+    {
+     "id": 13302,
+     "name": "classification",
+     "displayName": "Classification",
+     "slug": "classification",
+     "fullPath": "task > classification"
+    },
+    {
+     "name": "balanced accuracy score",
+     "displayName": "Balanced Accuracy Score",
+     "fullPath": ""
+    }
+   ],
+   "organization": {
+    "slug": "kaggle",
+    "name": "Kaggle",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png?t=2026-10-14-14-25-46",
+    "profileUrl": "/organizations/kaggle"
+   },
+   "launched": true,
+   "createdByUserId": 8939556,
+   "license": {
+    "id": 8,
+    "name": "CC BY-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+   },
+   "hostName": "Kaggle",
+   "scoreTruncationNumDecimals": 3,
+   "totalJoinedUsers": 5178,
+   "requiresIdentityVerification": true,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "USD",
+    "quantity": 50000
+   },
+   "url": "https://www.kaggle.com/competitions/name-that-llm"
+  },
+  {
+   "id": 162982,
+   "competitionName": "nfl-big-data-bowl-2027",
+   "title": "NFL Big Data Bowl 2027",
+   "briefDescription": "Uncover non-obvious linkages between Combine sensor tracking and regular-season NFL game performance",
+   "dateEnabled": "2026-10-06T19:43:47.377Z",
+   "deadline": "2027-01-06T23:59:00Z",
+   "hasLeaderboard": true,
+   "leaderboardPercentage": 30,
+   "maxDailySubmissions": 5,
+   "numScoredSubmissions": 2,
+   "numPrizes": 1,
+   "forumId": 12777188,
+   "dateCreated": "2026-08-27T16:14:07.028372Z",
+   "competitionHostSegmentId": 1,
+   "maxTeamSize": 5,
+   "teamMergerExplicitDeadline": "2027-01-06T23:59:59Z",
+   "prohibitNewEntrantsExplicitDeadline": "2027-01-06T23:59:59Z",
+   "organizationId": 2177,
+   "hasCoverImageUrl": true,
+   "hasScripts": true,
+   "totalTeams": 282,
+   "totalCompetitors": 287,
+   "totalSubmissions": 282,
+   "rulesRequired": true,
+   "categories": [
+    {
+     "id": 2603,
+     "name": "football",
+     "displayName": "Football",
+     "slug": "association-football",
+     "fullPath": "subject > health and fitness > exercise > sports > football"
+    },
+    {
+     "id": 4141,
+     "name": "sports",
+     "displayName": "Sports",
+     "slug": "sports",
+     "fullPath": "subject > health and fitness > exercise > sports"
+    },
+    {
+     "id": 13215,
+     "name": "data analytics",
+     "displayName": "Data Analytics",
+     "slug": "marketing-analytics",
+     "fullPath": "technique > data analytics"
+    }
+   ],
+   "organization": {
+    "slug": "nfl",
+    "name": "The National Football League",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/2177/thumbnail.png",
+    "profileUrl": "/organizations/nfl"
+   },
+   "launched": true,
+   "createdByUserId": 1314380,
+   "license": {
+    "id": 14,
+    "name": "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+    "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+   },
+   "hostName": "The National Football League",
+   "scoreTruncationNumDecimals": 5,
+   "totalJoinedUsers": 7436,
+   "requiresIdentityVerification": true,
+   "submissionSizeLimitMb": 20480,
+   "reward": {
+    "id": "USD",
+    "quantity": 100000
+   },
+   "hackathon": true,
+   "fileBasedSubmissions": true,
+   "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2027"
+  },
   {
    "id": 125224,
    "competitionName": "playground-series-s6e10",
@@ -25,9 +183,9 @@
    "organizationId": 4,
    "hasCoverImageUrl": true,
    "hasScripts": true,
-   "totalTeams": 201,
-   "totalCompetitors": 204,
-   "totalSubmissions": 654,
+   "totalTeams": 2166,
+   "totalCompetitors": 2242,
+   "totalSubmissions": 20854,
    "rulesRequired": true,
    "clonedFromCompetitionId": 119082,
    "rowIdColumnName": "id",
@@ -65,7 +223,7 @@
    "organization": {
     "slug": "kaggle",
     "name": "Kaggle",
-    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png?t=2026-10-14-14-25-46",
     "profileUrl": "/organizations/kaggle"
    },
    "launched": true,
@@ -77,7 +235,7 @@
    },
    "hostName": "Kaggle",
    "scoreTruncationNumDecimals": 5,
-   "totalJoinedUsers": 588,
+   "totalJoinedUsers": 4452,
    "submissionSizeLimitMb": 20480,
    "reward": {
     "id": "SWAG"
@@ -107,9 +265,9 @@
    "organizationId": 5151,
    "hasCoverImageUrl": true,
    "hasScripts": true,
-   "totalTeams": 89,
-   "totalCompetitors": 95,
-   "totalSubmissions": 161,
+   "totalTeams": 411,
+   "totalCompetitors": 437,
+   "totalSubmissions": 746,
    "rulesRequired": true,
    "clonedFromCompetitionId": 116727,
    "evaluationAlgorithm": {
@@ -162,7 +320,7 @@
    },
    "hostName": "The Pokémon Company - PTCGABC Team",
    "scoreTruncationNumDecimals": 1,
-   "totalJoinedUsers": 388,
+   "totalJoinedUsers": 1331,
    "submissionSizeLimitMb": 20480,
    "reward": {
     "id": "SWAG"
@@ -193,9 +351,9 @@
    "organizationId": 3823,
    "hasCoverImageUrl": true,
    "hasScripts": true,
-   "totalTeams": 89,
-   "totalCompetitors": 89,
-   "totalSubmissions": 92,
+   "totalTeams": 246,
+   "totalCompetitors": 253,
+   "totalSubmissions": 257,
    "rulesRequired": true,
    "categories": [
     {
@@ -228,7 +386,7 @@
    },
    "hostName": "Google DeepMind",
    "scoreTruncationNumDecimals": 5,
-   "totalJoinedUsers": 2720,
+   "totalJoinedUsers": 4963,
    "requiresIdentityVerification": true,
    "submissionSizeLimitMb": 20480,
    "reward": {
@@ -266,9 +424,9 @@
    "organizationId": 3823,
    "hasCoverImageUrl": true,
    "hasScripts": true,
-   "totalTeams": 1185,
-   "totalCompetitors": 1261,
-   "totalSubmissions": 3792,
+   "totalTeams": 3049,
+   "totalCompetitors": 3370,
+   "totalSubmissions": 16173,
    "rulesRequired": true,
    "usesSynchronousReruns": true,
    "maxCpuRuntimeMinutes": 720,
@@ -320,7 +478,7 @@
    },
    "hostName": "Google DeepMind",
    "scoreTruncationNumDecimals": 2,
-   "totalJoinedUsers": 7115,
+   "totalJoinedUsers": 11350,
    "requiresIdentityVerification": true,
    "submissionSizeLimitMb": 20480,
    "reward": {
@@ -330,6 +488,7 @@
    },
    "rerunOverrideKernelId": 134611724,
    "fileBasedSubmissions": true,
+   "maxPendingSubmissionsPerTeam": 1,
    "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent"
   },
   {
@@ -340,7 +499,7 @@
    "dateEnabled": "2026-09-14T22:57:37.417Z",
    "deadline": "2026-12-14T23:59:00Z",
    "hasLeaderboard": true,
-   "leaderboardPercentage": 33,
+   "leaderboardPercentage": 31,
    "maxDailySubmissions": 5,
    "numScoredSubmissions": 2,
    "hasSolution": true,
@@ -358,9 +517,9 @@
    "hasCoverImageUrl": true,
    "hasScripts": true,
    "onlyAllowKernelSubmissions": true,
-   "totalTeams": 2016,
-   "totalCompetitors": 2146,
-   "totalSubmissions": 21213,
+   "totalTeams": 3479,
+   "totalCompetitors": 3815,
+   "totalSubmissions": 57686,
    "rulesRequired": true,
    "usesSynchronousReruns": true,
    "maxCpuRuntimeMinutes": 540,
@@ -373,7 +532,7 @@
     "isMax": true,
     "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_JSON",
     "kernelId": 133620699,
-    "latestCompetitionMetricVersionId": 74442,
+    "latestCompetitionMetricVersionId": 75774,
     "state": "AVAILABLE"
    },
    "categories": [
@@ -413,7 +572,7 @@
    "hostName": "Enveda",
    "scoreTruncationNumDecimals": 3,
    "rerunMaxStaggerMinutes": 5,
-   "totalJoinedUsers": 7947,
+   "totalJoinedUsers": 10547,
    "requiresIdentityVerification": true,
    "submissionSizeLimitMb": 20480,
    "reward": {
@@ -447,7 +606,7 @@
    "hasScripts": true,
    "totalTeams": 3575,
    "totalCompetitors": 3715,
-   "totalSubmissions": 38683,
+   "totalSubmissions": 38686,
    "rulesRequired": true,
    "clonedFromCompetitionId": 119082,
    "rowIdColumnName": "id",
@@ -485,7 +644,7 @@
    "organization": {
     "slug": "kaggle",
     "name": "Kaggle",
-    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png?t=2026-10-14-14-25-46",
     "profileUrl": "/organizations/kaggle"
    },
    "launched": true,
@@ -498,6 +657,7 @@
    },
    "hostName": "Kaggle",
    "scoreTruncationNumDecimals": 5,
+   "locked": true,
    "totalJoinedUsers": 7357,
    "submissionSizeLimitMb": 20480,
    "reward": {
@@ -534,9 +694,9 @@
    "hasCoverImageUrl": true,
    "hasScripts": true,
    "onlyAllowKernelSubmissions": true,
-   "totalTeams": 4753,
-   "totalCompetitors": 5387,
-   "totalSubmissions": 73713,
+   "totalTeams": 6145,
+   "totalCompetitors": 7333,
+   "totalSubmissions": 135710,
    "rulesRequired": true,
    "usesSynchronousReruns": true,
    "maxCpuRuntimeMinutes": 540,
@@ -602,6 +762,7 @@
     "profileUrl": "/organizations/RSNA"
    },
    "launched": true,
+   "kernelsPublishingDisabledNow": true,
    "createdByUserId": 19579895,
    "license": {
     "id": 42,
@@ -609,7 +770,7 @@
    },
    "hostName": "Radiological Society of North America",
    "scoreTruncationNumDecimals": 3,
-   "totalJoinedUsers": 23318,
+   "totalJoinedUsers": 25797,
    "requiresIdentityVerification": true,
    "submissionSizeLimitMb": 20480,
    "reward": {
@@ -682,7 +843,7 @@
    "organization": {
     "slug": "kaggle",
     "name": "Kaggle",
-    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png?t=2026-10-14-14-25-46",
     "profileUrl": "/organizations/kaggle"
    },
    "launched": true,
@@ -717,6 +878,7 @@
    "numScoredSubmissions": 2,
    "numPrizes": 10,
    "forumId": 11548702,
+   "finalLeaderboardHasBeenVerified": true,
    "disableSubmissions": true,
    "userRankMultiplier": 1,
    "dateCreated": "2026-06-09T23:19:05.594587900Z",
@@ -728,10 +890,11 @@
    "kernelsPublishingDisabledDeadline": "2026-09-23T23:59:00Z",
    "organizationId": 4,
    "hasCoverImageUrl": true,
+   "showPrivateLeaderboard": true,
    "hasScripts": true,
-   "totalTeams": 10246,
-   "totalCompetitors": 11457,
-   "totalSubmissions": 19602,
+   "totalTeams": 10148,
+   "totalCompetitors": 11337,
+   "totalSubmissions": 19416,
    "rulesRequired": true,
    "clonedFromCompetitionId": 142031,
    "evaluationAlgorithm": {
@@ -759,11 +922,10 @@
    "organization": {
     "slug": "kaggle",
     "name": "Kaggle",
-    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png?t=2026-10-14-14-25-46",
     "profileUrl": "/organizations/kaggle"
    },
    "launched": true,
-   "kernelsPublishingDisabledNow": true,
    "createdByUserId": 19579895,
    "license": {
     "id": 30,
@@ -772,7 +934,7 @@
    },
    "hostName": "Kaggle",
    "scoreTruncationNumDecimals": 1,
-   "totalJoinedUsers": 21331,
+   "totalJoinedUsers": 21211,
    "requiresIdentityVerification": true,
    "submissionSizeLimitMb": 20480,
    "reward": {
@@ -845,7 +1007,7 @@
    "organization": {
     "slug": "kaggle",
     "name": "Kaggle",
-    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png?t=2026-10-14-14-25-46",
     "profileUrl": "/organizations/kaggle"
    },
    "launched": true,
@@ -930,7 +1092,7 @@
    "organization": {
     "slug": "kaggle",
     "name": "Kaggle",
-    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png?t=2026-10-14-14-25-46",
     "profileUrl": "/organizations/kaggle"
    },
    "launched": true,
@@ -966,11 +1128,14 @@
    "hasSolution": true,
    "numPrizes": 7,
    "forumId": 10656304,
+   "finalLeaderboardHasBeenVerified": true,
    "userRankMultiplier": 1,
    "dateCreated": "2026-04-01T21:58:55.077484900Z",
    "competitionHostSegmentId": 2,
    "maxTeamSize": 5,
    "medalsAllowed": true,
+   "enableTeamFiles": true,
+   "teamFileDeadline": "2026-11-30T00:00:00Z",
    "teamMergerExplicitDeadline": "2026-09-22T23:59:00Z",
    "prohibitNewEntrantsExplicitDeadline": "2026-09-22T23:59:00Z",
    "kernelsPublishingDisabledDeadline": "2026-09-22T23:59:00Z",
@@ -979,9 +1144,9 @@
    "showPrivateLeaderboard": true,
    "hasScripts": true,
    "onlyAllowKernelSubmissions": true,
-   "totalTeams": 4017,
-   "totalCompetitors": 4602,
-   "totalSubmissions": 97524,
+   "totalTeams": 3947,
+   "totalCompetitors": 4478,
+   "totalSubmissions": 95438,
    "rulesRequired": true,
    "usesSynchronousReruns": true,
    "maxCpuRuntimeMinutes": 720,
@@ -1054,9 +1219,10 @@
     "url": "https://creativecommons.org/publicdomain/zero/1.0/"
    },
    "hostName": "Biohub",
-   "scoreTruncationNumDecimals": 3,
+   "scoreTruncationNumDecimals": 5,
+   "locked": true,
    "rerunMaxStaggerMinutes": 5,
-   "totalJoinedUsers": 13475,
+   "totalJoinedUsers": 13351,
    "requiresIdentityVerification": true,
    "submissionSizeLimitMb": 20480,
    "reward": {
@@ -1088,9 +1254,9 @@
    "hasCoverImageUrl": true,
    "showPrivateLeaderboard": true,
    "hasScripts": true,
-   "totalTeams": 939,
-   "totalCompetitors": 1095,
-   "totalSubmissions": 941,
+   "totalTeams": 938,
+   "totalCompetitors": 1094,
+   "totalSubmissions": 940,
    "rulesRequired": true,
    "categories": [
     {
@@ -1388,7 +1554,7 @@
    "organization": {
     "slug": "kaggle",
     "name": "Kaggle",
-    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png?t=2026-10-14-14-25-46",
     "profileUrl": "/organizations/kaggle"
    },
    "launched": true,
@@ -1589,7 +1755,7 @@
    "organization": {
     "slug": "kaggle",
     "name": "Kaggle",
-    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
+    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png?t=2026-10-14-14-25-46",
     "profileUrl": "/organizations/kaggle"
    },
    "launched": true,
@@ -1610,142 +1776,6 @@
    "simulation": true,
    "fileBasedSubmissions": true,
    "url": "https://www.kaggle.com/competitions/maze-crawler"
-  },
-  {
-   "id": 125221,
-   "competitionName": "playground-series-s6e5",
-   "title": "Predicting F1 Pit Stops",
-   "briefDescription": "Playground Series - Season 6 Episode 5",
-   "dateEnabled": "2026-05-01T00:00:03.120Z",
-   "deadline": "2026-05-31T23:59:00Z",
-   "hasLeaderboard": true,
-   "leaderboardPercentage": 20,
-   "maxDailySubmissions": 10,
-   "numScoredSubmissions": 2,
-   "hasSolution": true,
-   "numPrizes": 3,
-   "forumId": 9538241,
-   "finalLeaderboardHasBeenVerified": true,
-   "dateCreated": "2025-12-03T22:12:16.196048900Z",
-   "competitionHostSegmentId": 8,
-   "maxTeamSize": 3,
-   "totalSolutionRows": 188165,
-   "organizationId": 4,
-   "hasCoverImageUrl": true,
-   "showPrivateLeaderboard": true,
-   "hasScripts": true,
-   "totalTeams": 3022,
-   "totalCompetitors": 3138,
-   "totalSubmissions": 36362,
-   "rulesRequired": true,
-   "clonedFromCompetitionId": 119082,
-   "rowIdColumnName": "id",
-   "evaluationAlgorithm": {
-    "id": 499,
-    "name": "Roc Auc Score",
-    "isMax": true,
-    "isPublic": true,
-    "environmentRenderType": "ENVIRONMENT_RENDER_TYPE_JSON",
-    "kernelId": 39244492,
-    "latestCompetitionMetricVersionId": 9197,
-    "state": "AVAILABLE"
-   },
-   "categories": [
-    {
-     "id": 13102,
-     "name": "beginner",
-     "displayName": "Beginner",
-     "slug": "beginner",
-     "fullPath": "audience > beginner"
-    },
-    {
-     "id": 14101,
-     "name": "tabular",
-     "displayName": "Tabular",
-     "slug": "tabular-data",
-     "fullPath": "data type > tabular"
-    },
-    {
-     "name": "roc auc score",
-     "displayName": "Roc Auc Score",
-     "fullPath": ""
-    }
-   ],
-   "organization": {
-    "slug": "kaggle",
-    "name": "Kaggle",
-    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/4/thumbnail.png",
-    "profileUrl": "/organizations/kaggle"
-   },
-   "launched": true,
-   "publiclyCloneable": "PUBLICLY_CLONEABLE_WITH_PRIVATE_SOLUTION_FILE",
-   "createdByUserId": 11812592,
-   "license": {
-    "id": 13,
-    "name": "Attribution 4.0 International (CC BY 4.0)",
-    "url": "https://creativecommons.org/licenses/by/4.0/"
-   },
-   "hostName": "Kaggle",
-   "scoreTruncationNumDecimals": 5,
-   "locked": true,
-   "totalJoinedUsers": 6152,
-   "submissionSizeLimitMb": 20480,
-   "reward": {
-    "id": "SWAG"
-   },
-   "fileBasedSubmissions": true,
-   "url": "https://www.kaggle.com/competitions/playground-series-s6e5"
-  },
-  {
-   "id": 137190,
-   "competitionName": "5-day-ai-agents-intensive-vibecoding-course-with-google",
-   "title": "5-Day AI Agents: Intensive Vibe Coding Course With Google",
-   "briefDescription": "June 15 - 19, 2026",
-   "dateEnabled": "2026-04-21T12:47:50.587Z",
-   "deadline": "2026-06-19T07:00:00Z",
-   "hasLeaderboard": true,
-   "leaderboardPercentage": 30,
-   "maxDailySubmissions": 4,
-   "numScoredSubmissions": 2,
-   "numPrizes": 1,
-   "forumId": 10729900,
-   "dateCreated": "2026-04-07T16:02:26.085440100Z",
-   "competitionHostSegmentId": 1,
-   "maxTeamSize": 1,
-   "prohibitNewEntrants": true,
-   "prohibitNewEntrantsExplicitDeadline": "2026-06-14T23:59:00Z",
-   "organizationId": 855,
-   "hasCoverImageUrl": true,
-   "showPrivateLeaderboard": true,
-   "hasScripts": true,
-   "categories": [
-    {
-     "id": 16002,
-     "name": "learn",
-     "displayName": "Learn",
-     "slug": "learn",
-     "fullPath": "admin > learn course"
-    }
-   ],
-   "organization": {
-    "slug": "google",
-    "name": "Google",
-    "thumbnailImageUrl": "https://storage.googleapis.com/kaggle-organizations/855/thumbnail.png",
-    "profileUrl": "/organizations/google"
-   },
-   "launched": true,
-   "createdByUserId": 13962117,
-   "enableUserEmailShare": true,
-   "hostName": "Google",
-   "scoreTruncationNumDecimals": 5,
-   "locked": true,
-   "totalJoinedUsers": 347134,
-   "submissionSizeLimitMb": 20480,
-   "reward": {},
-   "hackathon": true,
-   "isFiveDaysHackathon": true,
-   "fileBasedSubmissions": true,
-   "url": "https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google"
   }
  ]
 }
