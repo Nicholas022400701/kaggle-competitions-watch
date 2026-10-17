@@ -25,9 +25,9 @@
   "hasCoverImageUrl": true,
   "hasScripts": true,
   "onlyAllowKernelSubmissions": true,
-  "totalTeams": 1338,
-  "totalCompetitors": 1381,
-  "totalSubmissions": 5560,
+  "totalTeams": 1340,
+  "totalCompetitors": 1384,
+  "totalSubmissions": 5578,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -74,7 +74,7 @@
   },
   "hostName": "Kaggle",
   "scoreTruncationNumDecimals": 3,
-  "totalJoinedUsers": 5304,
+  "totalJoinedUsers": 5307,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -83,7 +83,7 @@
   },
   "url": "https://www.kaggle.com/competitions/name-that-llm",
   "firstSeen": "2026-10-14T20:11:45Z",
-  "lastChanged": "2026-10-17T20:18:38Z"
+  "lastChanged": "2026-10-17T20:28:39Z"
  },
  "162982": {
   "id": 162982,
@@ -106,9 +106,9 @@
   "organizationId": 2177,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 284,
-  "totalCompetitors": 289,
-  "totalSubmissions": 284,
+  "totalTeams": 285,
+  "totalCompetitors": 290,
+  "totalSubmissions": 285,
   "rulesRequired": true,
   "categories": [
    {
@@ -159,7 +159,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2027",
   "firstSeen": "2026-10-06T19:53:38Z",
-  "lastChanged": "2026-10-17T20:18:38Z"
+  "lastChanged": "2026-10-17T20:28:39Z"
  },
  "125224": {
   "id": 125224,
@@ -182,9 +182,9 @@
   "organizationId": 4,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 2183,
-  "totalCompetitors": 2259,
-  "totalSubmissions": 21041,
+  "totalTeams": 2184,
+  "totalCompetitors": 2260,
+  "totalSubmissions": 21055,
   "rulesRequired": true,
   "clonedFromCompetitionId": 119082,
   "rowIdColumnName": "id",
@@ -234,7 +234,7 @@
   },
   "hostName": "Kaggle",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 4478,
+  "totalJoinedUsers": 4482,
   "submissionSizeLimitMb": 20480,
   "reward": {
    "id": "SWAG"
@@ -242,7 +242,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/playground-series-s6e10",
   "firstSeen": "2026-10-01T00:08:45Z",
-  "lastChanged": "2026-10-17T20:18:38Z"
+  "lastChanged": "2026-10-17T20:28:39Z"
  },
  "168019": {
   "id": 168019,
@@ -431,7 +431,7 @@
   "hasScripts": true,
   "totalTeams": 3058,
   "totalCompetitors": 3383,
-  "totalSubmissions": 16291,
+  "totalSubmissions": 16298,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 720,
@@ -483,7 +483,7 @@
   },
   "hostName": "Google DeepMind",
   "scoreTruncationNumDecimals": 2,
-  "totalJoinedUsers": 11386,
+  "totalJoinedUsers": 11388,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -496,7 +496,7 @@
   "maxPendingSubmissionsPerTeam": 1,
   "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-17T20:18:38Z"
+  "lastChanged": "2026-10-17T20:28:39Z"
  },
  "143318": {
   "id": 143318,
@@ -526,7 +526,7 @@
   "onlyAllowKernelSubmissions": true,
   "totalTeams": 3488,
   "totalCompetitors": 3824,
-  "totalSubmissions": 57931,
+  "totalSubmissions": 57943,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -588,7 +588,7 @@
   },
   "url": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-17T20:18:38Z"
+  "lastChanged": "2026-10-17T20:28:39Z"
  },
  "125219": {
   "id": 125219,
@@ -705,9 +705,9 @@
   "hasCoverImageUrl": true,
   "hasScripts": true,
   "onlyAllowKernelSubmissions": true,
-  "totalTeams": 6151,
-  "totalCompetitors": 7339,
-  "totalSubmissions": 136224,
+  "totalTeams": 6152,
+  "totalCompetitors": 7340,
+  "totalSubmissions": 136257,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -791,7 +791,7 @@
   },
   "url": "https://www.kaggle.com/competitions/rsna-knee-abnormality-detection",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-17T20:18:38Z"
+  "lastChanged": "2026-10-17T20:28:39Z"
  },
  "125218": {
   "id": 125218,
