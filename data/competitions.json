@@ -28,9 +28,9 @@
   "organizationId": 5498,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 626,
-  "totalCompetitors": 646,
-  "totalSubmissions": 2083,
+  "totalTeams": 628,
+  "totalCompetitors": 648,
+  "totalSubmissions": 2096,
   "rulesRequired": true,
   "maxCpuRuntimeMinutes": 540,
   "maxGpuRuntimeMinutes": 540,
@@ -82,7 +82,7 @@
   },
   "hostName": "Google Quantum AI",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 2681,
+  "totalJoinedUsers": 2687,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -93,7 +93,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation",
   "firstSeen": "2026-10-22T18:05:35Z",
-  "lastChanged": "2026-10-24T11:46:44Z"
+  "lastChanged": "2026-10-24T11:56:44Z"
  },
  "166661": {
   "id": 166661,
@@ -120,9 +120,9 @@
   "organizationId": 4,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 581,
-  "totalCompetitors": 591,
-  "totalSubmissions": 2613,
+  "totalTeams": 585,
+  "totalCompetitors": 595,
+  "totalSubmissions": 2628,
   "rulesRequired": true,
   "clonedFromCompetitionId": 153911,
   "rowIdColumnName": "id",
@@ -178,7 +178,7 @@
   },
   "hostName": "Kaggle",
   "scoreTruncationNumDecimals": 10,
-  "totalJoinedUsers": 2273,
+  "totalJoinedUsers": 2281,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -189,7 +189,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/squares-in-squares",
   "firstSeen": "2026-10-21T21:04:55Z",
-  "lastChanged": "2026-10-24T11:46:44Z"
+  "lastChanged": "2026-10-24T11:56:44Z"
  },
  "170484": {
   "id": 170484,
@@ -217,9 +217,9 @@
   "hasCoverImageUrl": true,
   "hasScripts": true,
   "onlyAllowKernelSubmissions": true,
-  "totalTeams": 2949,
-  "totalCompetitors": 3123,
-  "totalSubmissions": 20914,
+  "totalTeams": 2950,
+  "totalCompetitors": 3124,
+  "totalSubmissions": 20936,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -266,7 +266,7 @@
   },
   "hostName": "Kaggle",
   "scoreTruncationNumDecimals": 3,
-  "totalJoinedUsers": 9288,
+  "totalJoinedUsers": 9293,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -275,7 +275,7 @@
   },
   "url": "https://www.kaggle.com/competitions/name-that-llm",
   "firstSeen": "2026-10-14T20:11:45Z",
-  "lastChanged": "2026-10-24T11:46:44Z"
+  "lastChanged": "2026-10-24T11:56:44Z"
  },
  "162982": {
   "id": 162982,
@@ -340,7 +340,7 @@
   },
   "hostName": "The National Football League",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 9116,
+  "totalJoinedUsers": 9117,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -351,7 +351,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2027",
   "firstSeen": "2026-10-06T19:53:38Z",
-  "lastChanged": "2026-10-24T11:46:44Z"
+  "lastChanged": "2026-10-24T11:56:44Z"
  },
  "125224": {
   "id": 125224,
@@ -374,9 +374,9 @@
   "organizationId": 4,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 2876,
-  "totalCompetitors": 2999,
-  "totalSubmissions": 31051,
+  "totalTeams": 2879,
+  "totalCompetitors": 3002,
+  "totalSubmissions": 31065,
   "rulesRequired": true,
   "clonedFromCompetitionId": 119082,
   "rowIdColumnName": "id",
@@ -426,7 +426,7 @@
   },
   "hostName": "Kaggle",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 5631,
+  "totalJoinedUsers": 5633,
   "submissionSizeLimitMb": 20480,
   "reward": {
    "id": "SWAG"
@@ -434,7 +434,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/playground-series-s6e10",
   "firstSeen": "2026-10-01T00:08:45Z",
-  "lastChanged": "2026-10-24T11:46:44Z"
+  "lastChanged": "2026-10-24T11:56:44Z"
  },
  "168019": {
   "id": 168019,
@@ -458,9 +458,9 @@
   "organizationId": 5151,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 496,
-  "totalCompetitors": 535,
-  "totalSubmissions": 903,
+  "totalTeams": 497,
+  "totalCompetitors": 536,
+  "totalSubmissions": 904,
   "rulesRequired": true,
   "clonedFromCompetitionId": 116727,
   "evaluationAlgorithm": {
@@ -522,7 +522,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-24T11:01:34Z"
+  "lastChanged": "2026-10-24T11:56:44Z"
  },
  "163111": {
   "id": 163111,
@@ -581,7 +581,7 @@
   },
   "hostName": "Google DeepMind",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 5695,
+  "totalJoinedUsers": 5696,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -592,7 +592,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent-paper",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-24T11:46:44Z"
+  "lastChanged": "2026-10-24T11:56:44Z"
  },
  "149921": {
   "id": 149921,
@@ -623,7 +623,7 @@
   "hasScripts": true,
   "totalTeams": 3657,
   "totalCompetitors": 4079,
-  "totalSubmissions": 22764,
+  "totalSubmissions": 22767,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 720,
@@ -675,7 +675,7 @@
   },
   "hostName": "Google DeepMind",
   "scoreTruncationNumDecimals": 2,
-  "totalJoinedUsers": 12604,
+  "totalJoinedUsers": 12605,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -688,7 +688,7 @@
   "maxPendingSubmissionsPerTeam": 1,
   "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-24T11:46:44Z"
+  "lastChanged": "2026-10-24T11:56:44Z"
  },
  "143318": {
   "id": 143318,
@@ -718,7 +718,7 @@
   "onlyAllowKernelSubmissions": true,
   "totalTeams": 3944,
   "totalCompetitors": 4343,
-  "totalSubmissions": 72162,
+  "totalSubmissions": 72181,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -771,7 +771,7 @@
   "hostName": "Enveda",
   "scoreTruncationNumDecimals": 3,
   "rerunMaxStaggerMinutes": 5,
-  "totalJoinedUsers": 11452,
+  "totalJoinedUsers": 11453,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -780,7 +780,7 @@
   },
   "url": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-10-24T11:46:44Z"
+  "lastChanged": "2026-10-24T11:56:44Z"
  },
  "125219": {
   "id": 125219,
