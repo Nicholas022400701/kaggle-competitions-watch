@@ -27,9 +27,9 @@
   "organizationId": 4,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 2219,
-  "totalCompetitors": 2306,
-  "totalSubmissions": 33687,
+  "totalTeams": 2221,
+  "totalCompetitors": 2308,
+  "totalSubmissions": 33767,
   "rulesRequired": true,
   "rowIdColumnName": "id",
   "evaluationAlgorithm": {
@@ -81,7 +81,7 @@
    "name": "Subject to Competition Rules"
   },
   "hostName": "Kaggle",
-  "totalJoinedUsers": 6531,
+  "totalJoinedUsers": 6534,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -92,7 +92,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/santa-2026",
   "firstSeen": "2026-11-18T01:00:13Z",
-  "lastChanged": "2026-11-21T19:20:39Z"
+  "lastChanged": "2026-11-21T19:30:39Z"
  },
  "178013": {
   "id": 178013,
@@ -157,7 +157,7 @@
   "createdByUserId": 1095143,
   "hostName": "Google",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 3549,
+  "totalJoinedUsers": 3551,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -168,7 +168,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/physical-engineerings-last-exam",
   "firstSeen": "2026-11-09T19:19:48Z",
-  "lastChanged": "2026-11-21T19:20:39Z"
+  "lastChanged": "2026-11-21T19:30:39Z"
  },
  "125225": {
   "id": 125225,
@@ -191,9 +191,9 @@
   "organizationId": 4,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 2592,
-  "totalCompetitors": 2697,
-  "totalSubmissions": 29560,
+  "totalTeams": 2595,
+  "totalCompetitors": 2700,
+  "totalSubmissions": 29571,
   "rulesRequired": true,
   "clonedFromCompetitionId": 125224,
   "rowIdColumnName": "id",
@@ -243,7 +243,7 @@
   },
   "hostName": "Kaggle",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 5228,
+  "totalJoinedUsers": 5230,
   "submissionSizeLimitMb": 20480,
   "reward": {
    "id": "SWAG",
@@ -252,7 +252,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/playground-series-s6e11",
   "firstSeen": "2026-11-01T00:01:47Z",
-  "lastChanged": "2026-11-21T19:20:39Z"
+  "lastChanged": "2026-11-21T19:30:39Z"
  },
  "161954": {
   "id": 161954,
@@ -285,7 +285,7 @@
   "hasScripts": true,
   "totalTeams": 3533,
   "totalCompetitors": 3861,
-  "totalSubmissions": 51686,
+  "totalSubmissions": 51694,
   "rulesRequired": true,
   "maxCpuRuntimeMinutes": 540,
   "maxGpuRuntimeMinutes": 540,
@@ -348,7 +348,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation",
   "firstSeen": "2026-10-22T18:05:35Z",
-  "lastChanged": "2026-11-21T19:20:39Z"
+  "lastChanged": "2026-11-21T19:30:39Z"
  },
  "166661": {
   "id": 166661,
@@ -375,9 +375,9 @@
   "organizationId": 4,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 2345,
-  "totalCompetitors": 2427,
-  "totalSubmissions": 32820,
+  "totalTeams": 2347,
+  "totalCompetitors": 2429,
+  "totalSubmissions": 32830,
   "rulesRequired": true,
   "clonedFromCompetitionId": 153911,
   "rowIdColumnName": "id",
@@ -444,7 +444,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/squares-in-squares",
   "firstSeen": "2026-10-21T21:04:55Z",
-  "lastChanged": "2026-11-21T19:20:39Z"
+  "lastChanged": "2026-11-21T19:30:39Z"
  },
  "170484": {
   "id": 170484,
@@ -474,7 +474,7 @@
   "onlyAllowKernelSubmissions": true,
   "totalTeams": 6644,
   "totalCompetitors": 7295,
-  "totalSubmissions": 91886,
+  "totalSubmissions": 91897,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -521,7 +521,7 @@
   },
   "hostName": "Kaggle",
   "scoreTruncationNumDecimals": 3,
-  "totalJoinedUsers": 16582,
+  "totalJoinedUsers": 16584,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -530,7 +530,7 @@
   },
   "url": "https://www.kaggle.com/competitions/name-that-llm",
   "firstSeen": "2026-10-14T20:11:45Z",
-  "lastChanged": "2026-11-21T19:20:39Z"
+  "lastChanged": "2026-11-21T19:30:39Z"
  },
  "162982": {
   "id": 162982,
@@ -595,7 +595,7 @@
   },
   "hostName": "The National Football League",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 13049,
+  "totalJoinedUsers": 13050,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -606,7 +606,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2027",
   "firstSeen": "2026-10-06T19:53:38Z",
-  "lastChanged": "2026-11-21T19:10:39Z"
+  "lastChanged": "2026-11-21T19:30:39Z"
  },
  "125224": {
   "id": 125224,
@@ -884,7 +884,7 @@
   "hasScripts": true,
   "totalTeams": 6364,
   "totalCompetitors": 7182,
-  "totalSubmissions": 56349,
+  "totalSubmissions": 56363,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 720,
@@ -949,7 +949,7 @@
   "maxPendingSubmissionsPerTeam": 1,
   "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-11-21T19:20:39Z"
+  "lastChanged": "2026-11-21T19:30:39Z"
  },
  "143318": {
   "id": 143318,
@@ -977,9 +977,9 @@
   "hasCoverImageUrl": true,
   "hasScripts": true,
   "onlyAllowKernelSubmissions": true,
-  "totalTeams": 5712,
-  "totalCompetitors": 6430,
-  "totalSubmissions": 150571,
+  "totalTeams": 5713,
+  "totalCompetitors": 6431,
+  "totalSubmissions": 150585,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -1032,7 +1032,7 @@
   "hostName": "Enveda",
   "scoreTruncationNumDecimals": 3,
   "rerunMaxStaggerMinutes": 5,
-  "totalJoinedUsers": 14200,
+  "totalJoinedUsers": 14201,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -1041,7 +1041,7 @@
   },
   "url": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-11-21T19:20:39Z"
+  "lastChanged": "2026-11-21T19:30:39Z"
  },
  "125219": {
   "id": 125219,
