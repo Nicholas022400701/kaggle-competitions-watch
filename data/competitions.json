@@ -27,9 +27,9 @@
   "hasCoverImageUrl": true,
   "hasScripts": true,
   "onlyAllowKernelSubmissions": true,
-  "totalTeams": 584,
-  "totalCompetitors": 604,
-  "totalSubmissions": 2683,
+  "totalTeams": 585,
+  "totalCompetitors": 605,
+  "totalSubmissions": 2686,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -94,7 +94,7 @@
   "maxPendingSubmissionsPerTeam": 2,
   "url": "https://www.kaggle.com/competitions/generalist-gaming-agent",
   "firstSeen": "2026-11-23T18:37:09Z",
-  "lastChanged": "2026-11-28T12:40:10Z"
+  "lastChanged": "2026-11-28T12:50:10Z"
  },
  "177055": {
   "id": 177055,
@@ -124,9 +124,9 @@
   "organizationId": 4,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 3455,
-  "totalCompetitors": 3655,
-  "totalSubmissions": 110500,
+  "totalTeams": 3456,
+  "totalCompetitors": 3656,
+  "totalSubmissions": 110565,
   "rulesRequired": true,
   "rowIdColumnName": "id",
   "evaluationAlgorithm": {
@@ -178,7 +178,7 @@
    "name": "Subject to Competition Rules"
   },
   "hostName": "Kaggle",
-  "totalJoinedUsers": 8921,
+  "totalJoinedUsers": 8923,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -189,7 +189,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/santa-2026",
   "firstSeen": "2026-11-18T01:00:13Z",
-  "lastChanged": "2026-11-28T12:40:10Z"
+  "lastChanged": "2026-11-28T12:50:10Z"
  },
  "178013": {
   "id": 178013,
@@ -290,7 +290,7 @@
   "hasScripts": true,
   "totalTeams": 3443,
   "totalCompetitors": 3600,
-  "totalSubmissions": 42690,
+  "totalSubmissions": 42711,
   "rulesRequired": true,
   "clonedFromCompetitionId": 125224,
   "rowIdColumnName": "id",
@@ -340,7 +340,7 @@
   },
   "hostName": "Kaggle",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 6311,
+  "totalJoinedUsers": 6312,
   "submissionSizeLimitMb": 20480,
   "reward": {
    "id": "SWAG",
@@ -349,7 +349,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/playground-series-s6e11",
   "firstSeen": "2026-11-01T00:01:47Z",
-  "lastChanged": "2026-11-28T12:40:10Z"
+  "lastChanged": "2026-11-28T12:50:10Z"
  },
  "161954": {
   "id": 161954,
@@ -380,9 +380,9 @@
   "organizationId": 5498,
   "hasCoverImageUrl": true,
   "hasScripts": true,
-  "totalTeams": 3865,
-  "totalCompetitors": 4236,
-  "totalSubmissions": 62164,
+  "totalTeams": 3866,
+  "totalCompetitors": 4237,
+  "totalSubmissions": 62173,
   "rulesRequired": true,
   "maxCpuRuntimeMinutes": 540,
   "maxGpuRuntimeMinutes": 540,
@@ -445,7 +445,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation",
   "firstSeen": "2026-10-22T18:05:35Z",
-  "lastChanged": "2026-11-28T12:40:10Z"
+  "lastChanged": "2026-11-28T12:50:10Z"
  },
  "166661": {
   "id": 166661,
@@ -474,7 +474,7 @@
   "hasScripts": true,
   "totalTeams": 2572,
   "totalCompetitors": 2662,
-  "totalSubmissions": 39277,
+  "totalSubmissions": 39282,
   "rulesRequired": true,
   "clonedFromCompetitionId": 153911,
   "rowIdColumnName": "id",
@@ -530,7 +530,7 @@
   },
   "hostName": "Kaggle",
   "scoreTruncationNumDecimals": 10,
-  "totalJoinedUsers": 7013,
+  "totalJoinedUsers": 7015,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -541,7 +541,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/squares-in-squares",
   "firstSeen": "2026-10-21T21:04:55Z",
-  "lastChanged": "2026-11-28T12:40:10Z"
+  "lastChanged": "2026-11-28T12:50:10Z"
  },
  "170484": {
   "id": 170484,
@@ -571,7 +571,7 @@
   "onlyAllowKernelSubmissions": true,
   "totalTeams": 7324,
   "totalCompetitors": 8078,
-  "totalSubmissions": 109998,
+  "totalSubmissions": 110014,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -618,7 +618,7 @@
   },
   "hostName": "Kaggle",
   "scoreTruncationNumDecimals": 3,
-  "totalJoinedUsers": 17926,
+  "totalJoinedUsers": 17929,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -627,7 +627,7 @@
   },
   "url": "https://www.kaggle.com/competitions/name-that-llm",
   "firstSeen": "2026-10-14T20:11:45Z",
-  "lastChanged": "2026-11-28T12:40:10Z"
+  "lastChanged": "2026-11-28T12:50:10Z"
  },
  "162982": {
   "id": 162982,
@@ -692,7 +692,7 @@
   },
   "hostName": "The National Football League",
   "scoreTruncationNumDecimals": 5,
-  "totalJoinedUsers": 13726,
+  "totalJoinedUsers": 13727,
   "requiresIdentityVerification": true,
   "submissionSizeLimitMb": 20480,
   "reward": {
@@ -703,7 +703,7 @@
   "fileBasedSubmissions": true,
   "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2027",
   "firstSeen": "2026-10-06T19:53:38Z",
-  "lastChanged": "2026-11-28T12:10:10Z"
+  "lastChanged": "2026-11-28T12:50:10Z"
  },
  "125224": {
   "id": 125224,
@@ -981,7 +981,7 @@
   "hasScripts": true,
   "totalTeams": 7018,
   "totalCompetitors": 8131,
-  "totalSubmissions": 66051,
+  "totalSubmissions": 66058,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 720,
@@ -1047,7 +1047,7 @@
   "maxPendingSubmissionsPerTeam": 1,
   "url": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-11-28T12:40:10Z"
+  "lastChanged": "2026-11-28T12:50:10Z"
  },
  "143318": {
   "id": 143318,
@@ -1075,9 +1075,9 @@
   "hasCoverImageUrl": true,
   "hasScripts": true,
   "onlyAllowKernelSubmissions": true,
-  "totalTeams": 6189,
-  "totalCompetitors": 6986,
-  "totalSubmissions": 176032,
+  "totalTeams": 6192,
+  "totalCompetitors": 6989,
+  "totalSubmissions": 176058,
   "rulesRequired": true,
   "usesSynchronousReruns": true,
   "maxCpuRuntimeMinutes": 540,
@@ -1139,7 +1139,7 @@
   },
   "url": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra",
   "firstSeen": "2026-09-30T12:01:50Z",
-  "lastChanged": "2026-11-28T12:40:10Z"
+  "lastChanged": "2026-11-28T12:50:10Z"
  },
  "125219": {
   "id": 125219,
